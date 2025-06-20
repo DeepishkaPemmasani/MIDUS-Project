@@ -1,0 +1,818 @@
+Physical Activity Variable,Motivation Variable,Correlation,P-value
+C4H73CFD = How many times per day do you do exercise/activity C?,C4Q1A = MASQ Felt sad,0.41743719442873584,0.0
+C4H73CI = What is the intensity of exercise/activity C?,C4Q1A = MASQ Felt sad,0.40884730541315223,0.0
+C4H73BFW = How many days per week do you do exercise/activity B?,C4Q1A = MASQ Felt sad,0.40867554975411147,0.0
+C4H73CC = Exercise/Activity C – Coded,C4Q1A = MASQ Felt sad,0.38411549666608524,0.0
+C4H73BFW = How many days per week do you do exercise/activity B?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",0.37762022452970756,0.0
+C4H73BFW = How many days per week do you do exercise/activity B?,C4Q1FF = MASQ Was unable to relax,0.36590012007197975,0.0
+C4H73CFW = How many days per week do you do exercise/activity C?,C4Q1A = MASQ Felt sad,0.3645841258548728,0.0
+C4H73BFW = How many days per week do you do exercise/activity B?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,0.36043192153424614,0.0
+C4H73CFD = How many times per day do you do exercise/activity C?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",0.3582709301830308,0.0
+C4H73CI = What is the intensity of exercise/activity C?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",0.3563214066295874,0.0
+C4H73CFD = How many times per day do you do exercise/activity C?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,0.3425857114492346,0.0
+C4H73CC = Exercise/Activity C – Coded,C4Q1FF = MASQ Was unable to relax,0.33143679768884743,0.0
+C4H73CFD = How many times per day do you do exercise/activity C?,C4Q1FF = MASQ Was unable to relax,0.33091984301346744,0.0
+C4H73CI = What is the intensity of exercise/activity C?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,0.32919264470140575,2.007180234201189e-307
+C4H73CC = Exercise/Activity C – Coded,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",0.32908915288939095,3.205615384450228e-307
+C4H73CI = What is the intensity of exercise/activity C?,C4Q1FF = MASQ Was unable to relax,0.32614748056478887,1.7870683544211635e-301
+C4H73CC = Exercise/Activity C – Coded,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,0.320294954841613,3.12784460130294e-290
+C4H73BFW = How many days per week do you do exercise/activity B?,C4Q1L = MASQ Felt depressed,0.31742829018794794,8.150188248179952e-285
+C4H73CFW = How many days per week do you do exercise/activity C?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",0.3140919765913209,1.3789061008191422e-278
+C4H73CFD = How many times per day do you do exercise/activity C?,C4Q1L = MASQ Felt depressed,0.29795240346463725,1.4095381910923614e-249
+C4H73CC = Exercise/Activity C – Coded,C4Q1L = MASQ Felt depressed,0.2966040741959928,3.087789677920138e-247
+C4H73CFW = How many days per week do you do exercise/activity C?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,0.2954693827508258,2.815586469857432e-245
+C4H73CFW = How many days per week do you do exercise/activity C?,C4Q1FF = MASQ Was unable to relax,0.29412524509495486,5.750488336457041e-243
+C4H73CI = What is the intensity of exercise/activity C?,C4Q1L = MASQ Felt depressed,0.2940480667466384,7.797751162417262e-243
+C4H73BFW = How many days per week do you do exercise/activity B?,C4Q3R = CESD I felt sad,0.2925513044752169,2.811300640400623e-240
+C4H73CI = What is the intensity of exercise/activity C?,C4Q3R = CESD I felt sad,0.2851459084967226,7.464421799310853e-228
+C4H73CFD = How many times per day do you do exercise/activity C?,C4Q3R = CESD I felt sad,0.2833883766847874,5.842631549537098e-225
+C4H73CM = What is the average number of minutes/session that you do exercise/activity C?,C4Q1A = MASQ Felt sad,0.2831602409141378,1.382528000745183e-224
+C4H73BFD = How many times per day do you do exercise/activity B?,C4Q1A = MASQ Felt sad,0.27911247735943967,5.236593253159526e-218
+C4H73AI = What is the intensity of exercise/activity A?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.27666291079214916,4.4298572209343976e-214
+C4H73AS = Seasonal exercise/activity A?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.27233066932245487,3.116999133007784e-207
+C4H73CFW = How many days per week do you do exercise/activity C?,C4Q1L = MASQ Felt depressed,0.26968062677108817,4.1745078505162294e-203
+C4H73CS = Seasonal exercise/activity C?,C4Q1A = MASQ Felt sad,0.2650150753046817,5.931677004583966e-196
+C4H73CI = What is the intensity of exercise/activity C?,C4H1V = Have you ever had depression?,-0.2616434339192337,7.1269989495467e-191
+C4H73BFD = How many times per day do you do exercise/activity B?,C4Q1FF = MASQ Was unable to relax,0.2612922631795061,2.3861531663261413e-190
+C4H73BFW = How many days per week do you do exercise/activity B?,C4H1V = Have you ever had depression?,-0.25754880381918427,8.354557230937319e-185
+C4H73CFD = How many times per day do you do exercise/activity C?,C4H1V = Have you ever had depression?,-0.25606140077086814,1.2575242076948894e-182
+C4H73CC = Exercise/Activity C – Coded,C4Q3R = CESD I felt sad,0.2547856202975218,9.033548867094182e-181
+C4H73BFD = How many times per day do you do exercise/activity B?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,0.25366405843318635,3.794041504751526e-179
+C4H73CFW = How many days per week do you do exercise/activity C?,C4Q3R = CESD I felt sad,0.251845442160839,1.5629066223911411e-176
+C4H73BFD = How many times per day do you do exercise/activity B?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",0.24437936981541203,5.0832474887062455e-166
+C4H73CM = What is the average number of minutes/session that you do exercise/activity C?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",0.2439073897804644,2.2841055081927137e-165
+C4H73CFW = How many days per week do you do exercise/activity C?,C4H1V = Have you ever had depression?,-0.2433330897288134,1.4153058926900458e-164
+C4H73CM = What is the average number of minutes/session that you do exercise/activity C?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,0.24073968282470395,5.033343777749155e-161
+C4H73CC = Exercise/Activity C – Coded,C4H1V = Have you ever had depression?,-0.24057909602982655,8.324092589419959e-161
+C4H73AFD = How many times per day do you do exercise/activity A?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,0.2392788437194289,4.823208863812209e-159
+C4H73AS = Seasonal exercise/activity A?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,0.23641424005524078,3.386524556089005e-155
+C4H73BFW = How many days per week do you do exercise/activity B?,C4Q3F = CESD I felt depressed,0.2328642495502001,1.6781884621516484e-150
+C4H73BFW = How many days per week do you do exercise/activity B?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.22645702132326265,3.1576467941874955e-142
+C4H73BFW = How many days per week do you do exercise/activity B?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.22645702132326265,3.1576467941874955e-142
+C4H73BFD = How many times per day do you do exercise/activity B?,C4Q1L = MASQ Felt depressed,0.22633765813347712,4.478057828930815e-142
+C4H73AFD = How many times per day do you do exercise/activity A?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.22624521635119055,5.868599964302432e-142
+C4H73CS = Seasonal exercise/activity C?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",0.2250021026352229,2.2015642868564954e-140
+C4H73AFD = How many times per day do you do exercise/activity A?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",0.2240190383415136,3.809282131284448e-139
+C4H73AC = Exercise/Activity A – Coded,C4AD510 = Sun AM How Difficult To Fall Asleep,0.22289128841659128,9.858690241916077e-138
+C4H73CC = Exercise/Activity C – Coded,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.2222597559886443,6.048478743308038e-137
+C4H73CC = Exercise/Activity C – Coded,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.2222597559886443,6.048478743308038e-137
+C4H73CS = Seasonal exercise/activity C?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,0.2193815356586587,2.193103861664831e-133
+C4H73CM = What is the average number of minutes/session that you do exercise/activity C?,C4Q1FF = MASQ Was unable to relax,0.2171083678690108,1.3068894824406571e-130
+C4H73CFD = How many times per day do you do exercise/activity C?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.21387597804054778,1.0185904192673335e-126
+C4H73CFD = How many times per day do you do exercise/activity C?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.21387597804054778,1.0185904192673335e-126
+C4H73AC = Exercise/Activity A – Coded,C4Q1A = MASQ Felt sad,-0.21312416455928646,8.017342864377741e-126
+C4H73CC = Exercise/Activity C – Coded,C4Q3F = CESD I felt depressed,0.21114261488356403,1.7750144862680047e-123
+C4H73CM = What is the average number of minutes/session that you do exercise/activity C?,C4Q1L = MASQ Felt depressed,0.2109326619001544,3.135327685881535e-123
+C4H73AS = Seasonal exercise/activity A?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",0.2083172116272856,3.563078461854616e-120
+C4H73CS = Seasonal exercise/activity C?,C4Q1FF = MASQ Was unable to relax,0.20817981724372114,5.1427140897513755e-120
+C4H73AFD = How many times per day do you do exercise/activity A?,C4Q1A = MASQ Felt sad,0.20481733459373908,3.7656886980558045e-116
+C4H73CI = What is the intensity of exercise/activity C?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.2035043188287422,1.165290739790727e-114
+C4H73CI = What is the intensity of exercise/activity C?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.2035043188287422,1.165290739790727e-114
+C4H73CFD = How many times per day do you do exercise/activity C?,C4Q3F = CESD I felt depressed,0.20300877361855899,4.229609073729662e-114
+C4H73AI = What is the intensity of exercise/activity A?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,0.20300111939637236,4.3145585730780405e-114
+C4H73BFD = How many times per day do you do exercise/activity B?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.2018691852609949,8.09474473478255e-113
+C4H73AS = Seasonal exercise/activity A?,C4Q1FF = MASQ Was unable to relax,0.20154427520289406,1.871800373592558e-112
+C4H73AFD = How many times per day do you do exercise/activity A?,C4Q1FF = MASQ Was unable to relax,0.2010052181850313,7.496634033032302e-112
+C4H73CFW = How many days per week do you do exercise/activity C?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.19983686254982483,1.496160527809646e-110
+C4H73CFW = How many days per week do you do exercise/activity C?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.19983686254982483,1.496160527809646e-110
+C4H73CS = Seasonal exercise/activity C?,C4Q1L = MASQ Felt depressed,0.1979133764383815,1.9841315815470696e-108
+C4H73CI = What is the intensity of exercise/activity C?,C4Q3F = CESD I felt depressed,0.19586604290363163,3.4083162015661123e-106
+C4H73CM = What is the average number of minutes/session that you do exercise/activity C?,C4Q3R = CESD I felt sad,0.19304020540665573,3.769904711963331e-103
+C4H73CM = What is the average number of minutes/session that you do exercise/activity C?,C4H1V = Have you ever had depression?,-0.19067560995935506,1.2213498242226697e-100
+C4H73BFW = How many days per week do you do exercise/activity B?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.1895581047380529,1.8271417568332997e-99
+C4H73AS = Seasonal exercise/activity A?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.18939066164654259,2.736423300100139e-99
+C4H73AS = Seasonal exercise/activity A?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.18939066164654259,2.736423300100139e-99
+C4H73CI = What is the intensity of exercise/activity C?,C4AD510 = Sun AM How Difficult To Fall Asleep,-0.1891591962200794,4.779584435471541e-99
+C4H73AS = Seasonal exercise/activity A?,C4Q1A = MASQ Felt sad,0.1888928997128328,9.070944926516692e-99
+C4H73BFD = How many times per day do you do exercise/activity B?,C4Q3R = CESD I felt sad,0.18746146906403005,2.7939823688163765e-97
+C4H73AI = What is the intensity of exercise/activity A?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",0.18742388895880366,3.0559124577827105e-97
+C4H73AS = Seasonal exercise/activity A?,C4Q1L = MASQ Felt depressed,0.18580209147970853,1.4345228797826156e-95
+C4H73AM = What is the average number of minutes/session that you do exercise/activity A?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.18560835253896957,2.2664976003099536e-95
+C4H73BS = Seasonal exercise/activity B?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.18205519215005497,9.107332294848275e-92
+C4H73CS = Seasonal exercise/activity C?,C4Q3R = CESD I felt sad,0.17958821604714023,2.6188905224570443e-89
+C4H73CFW = How many days per week do you do exercise/activity C?,C4Q3F = CESD I felt depressed,0.17949642277903435,3.2278705975470125e-89
+C4H73CM = What is the average number of minutes/session that you do exercise/activity C?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.17946904758674628,3.4354622685705484e-89
+C4H73CM = What is the average number of minutes/session that you do exercise/activity C?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.17946904758674628,3.4354622685705484e-89
+C4H73AFD = How many times per day do you do exercise/activity A?,C4H1V = Have you ever had depression?,-0.17860914561849336,2.4212568460714913e-88
+C4H73BFD = How many times per day do you do exercise/activity B?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.17859798162994367,2.4832625181609048e-88
+C4H73BFD = How many times per day do you do exercise/activity B?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.17859798162994367,2.4832625181609048e-88
+C4H73AC = Exercise/Activity A – Coded,C4Q1FF = MASQ Was unable to relax,-0.17799501986934205,9.706472581715505e-88
+C4H73CC = Exercise/Activity C – Coded,C4Q4G = PSS Able to control irritations in your life,-0.1765220296891501,2.6573174696442955e-86
+C4H73CC = Exercise/Activity C – Coded,C4Q4G = PSS Able to control irritations in your life,-0.1765220296891501,2.6573174696442955e-86
+C4H73BFW = How many days per week do you do exercise/activity B?,C4Q4G = PSS Able to control irritations in your life,-0.17613823190507746,6.264485055752091e-86
+C4H73BFW = How many days per week do you do exercise/activity B?,C4Q4G = PSS Able to control irritations in your life,-0.17613823190507746,6.264485055752091e-86
+C4H73CFD = How many times per day do you do exercise/activity C?,C4AD510 = Sun AM How Difficult To Fall Asleep,-0.1746208172742025,1.8239002574116052e-84
+C4H73AS = Seasonal exercise/activity A?,C4Q3F = CESD I felt depressed,0.174385996975991,3.064615803506833e-84
+C4H73AFD = How many times per day do you do exercise/activity A?,C4Q3R = CESD I felt sad,0.1719095621320636,6.977363151991748e-82
+C4H73BFD = How many times per day do you do exercise/activity B?,C4H1V = Have you ever had depression?,-0.17057053415743445,1.2690767169665157e-80
+C4H73CS = Seasonal exercise/activity C?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.16937290618041873,1.665148752262527e-79
+C4H73CFD = How many times per day do you do exercise/activity C?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.16917562636134462,2.539885710938095e-79
+C4H73CFD = How many times per day do you do exercise/activity C?,C4Q4G = PSS Able to control irritations in your life,-0.16841368420119052,1.290880534484174e-78
+C4H73CFD = How many times per day do you do exercise/activity C?,C4Q4G = PSS Able to control irritations in your life,-0.16841368420119052,1.290880534484174e-78
+C4H73AFD = How many times per day do you do exercise/activity A?,C4Q3F = CESD I felt depressed,0.1677047716123531,5.818406500898979e-78
+C4H73BI = What is the intensity of exercise/activity B?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.16764360596347475,6.623517711644135e-78
+C4H73BFW = How many days per week do you do exercise/activity B?,C4AD510 = Sun AM How Difficult To Fall Asleep,-0.16382080184067677,1.9770846925354276e-74
+C4H73BC = Exercise/Activity B – Coded,C4Q1AA = MASQ Felt like I had a lot of energy,-0.16312309166462696,8.339999579388221e-74
+C4H73CM = What is the average number of minutes/session that you do exercise/activity C?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.1626432937728796,2.2358167806930953e-73
+C4H73CS = Seasonal exercise/activity C?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.16252596927372576,2.844195592236623e-73
+C4H73CS = Seasonal exercise/activity C?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.16252596927372576,2.844195592236623e-73
+C4H73CS = Seasonal exercise/activity C?,C4H1V = Have you ever had depression?,-0.16246952271975074,3.193147445835526e-73
+C4H73CFW = How many days per week do you do exercise/activity C?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.16213498555465816,6.334500231012639e-73
+C4H73AFD = How many times per day do you do exercise/activity A?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.1614297886818187,2.6712669163069394e-72
+C4H73AFD = How many times per day do you do exercise/activity A?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.1614297886818187,2.6712669163069394e-72
+C4H73CI = What is the intensity of exercise/activity C?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.16043296734481538,2.0198455346468036e-71
+C4H73BFD = How many times per day do you do exercise/activity B?,C4Q3F = CESD I felt depressed,0.15986524664306978,6.355693827602106e-71
+C4H73CC = Exercise/Activity C – Coded,C4Q1AA = MASQ Felt like I had a lot of energy,-0.15944297340506217,1.4868421508544637e-70
+C4H73AC = Exercise/Activity A – Coded,C4Q1AA = MASQ Felt like I had a lot of energy,-0.1571410864926298,1.4667802392622515e-68
+C4H73AC = Exercise/Activity A – Coded,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.1564393302787538,5.864965618363011e-68
+C4H73AI = What is the intensity of exercise/activity A?,C4Q3F = CESD I felt depressed,0.1560708505957362,1.2111193660890359e-67
+C4H73AI = What is the intensity of exercise/activity A?,C4H1V = Have you ever had depression?,-0.15600612185505264,1.375394897786058e-67
+C4H73AS = Seasonal exercise/activity A?,C4Q3R = CESD I felt sad,0.15551481909096634,3.6052314701567984e-67
+C4H73AI = What is the intensity of exercise/activity A?,C4Q1A = MASQ Felt sad,0.1551627202662584,7.178176768972935e-67
+C4H73AFD = How many times per day do you do exercise/activity A?,C4Q1L = MASQ Felt depressed,0.1551142195334771,7.89144287773182e-67
+C4H73AI = What is the intensity of exercise/activity A?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.15276715328944165,7.449275090704629e-65
+C4H73AI = What is the intensity of exercise/activity A?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.15276715328944165,7.449275090704629e-65
+C4H73CFW = How many days per week do you do exercise/activity C?,C4Q4G = PSS Able to control irritations in your life,-0.15211145535030438,2.6197128671213274e-64
+C4H73CFW = How many days per week do you do exercise/activity C?,C4Q4G = PSS Able to control irritations in your life,-0.15211145535030438,2.6197128671213274e-64
+C4H73DFD = How many times per day do you do exercise/activity D?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.15147318950820463,8.861895132623066e-64
+C4H73DFW = How many days per week do you do exercise/activity D?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.1513567879992098,1.1061177285452782e-63
+C4H73DS = Seasonal exercise/activity D?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.15135619487377308,1.107367377583034e-63
+C4H73DC = Exercise/Activity D – Coded,C4AD510 = Sun AM How Difficult To Fall Asleep,0.1505063587159274,5.557121493662617e-63
+C4H73DI = What is the intensity of exercise/activity D?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.14994660079058203,1.599720882055876e-62
+C4H73DM = What is the average number of minutes/session that you do exercise/activity D?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.14968103134948402,2.638037235013783e-62
+C4H73CI = What is the intensity of exercise/activity C?,C4Q4G = PSS Able to control irritations in your life,-0.14836394691543034,3.1099382310926717e-61
+C4H73CI = What is the intensity of exercise/activity C?,C4Q4G = PSS Able to control irritations in your life,-0.14836394691543034,3.1099382310926717e-61
+C4H73AS = Seasonal exercise/activity A?,C4H1V = Have you ever had depression?,-0.14697322796833276,4.1063977331684965e-60
+C4H73CC = Exercise/Activity C – Coded,C4AD510 = Sun AM How Difficult To Fall Asleep,-0.14696328887690446,4.182452584294678e-60
+C4H73BC = Exercise/Activity B – Coded,C4Q1A = MASQ Felt sad,0.1466917225384542,6.902079776205755e-60
+C4H73CFW = How many days per week do you do exercise/activity C?,C4AD510 = Sun AM How Difficult To Fall Asleep,-0.14638647293057241,1.2106382354753905e-59
+C4H73AFW = How many days per week do you do exercise/activity A?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.14629425377307012,1.4342873279948546e-59
+C4H73AI = What is the intensity of exercise/activity A?,C4Q1L = MASQ Felt depressed,0.14360207382324594,1.92631254238874e-57
+C4H73DFW = How many days per week do you do exercise/activity D?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.14082089707762305,2.7558075885213582e-55
+C4H73DI = What is the intensity of exercise/activity D?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.14027539353542237,7.209891793238465e-55
+C4H73AI = What is the intensity of exercise/activity A?,C4Q3R = CESD I felt sad,0.13926985327038424,4.2020868567581846e-54
+C1PA24EC = High blood pressure therapy - Exercise,C4Q1A = MASQ Felt sad,-0.1385798134480421,1.3980376492714987e-53
+C4H73DC = Exercise/Activity D – Coded,C4Q1AA = MASQ Felt like I had a lot of energy,-0.13829294458071442,2.300194830324286e-53
+C4H73DC = Exercise/Activity D – Coded,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.13804927684125995,3.5081812914498023e-53
+C4H73DFD = How many times per day do you do exercise/activity D?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.13794345033225194,4.213026860451015e-53
+C4H73BM = What is the average number of minutes/session that you do exercise/activity B?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.13789171654882243,4.607244642570042e-53
+C4H73CM = What is the average number of minutes/session that you do exercise/activity C?,C4Q3F = CESD I felt depressed,0.13688681670189173,2.6004350074272226e-52
+C4H73DM = What is the average number of minutes/session that you do exercise/activity D?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.13674725415194489,3.3035636902728296e-52
+C4H73DS = Seasonal exercise/activity D?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.13662938850125042,4.042741489499423e-52
+C4H73DS = Seasonal exercise/activity D?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.13559622159089096,2.3552232376222008e-51
+C4H73DFD = How many times per day do you do exercise/activity D?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.1355911448251116,2.3756262659413837e-51
+C4H73DI = What is the intensity of exercise/activity D?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.13491441508398647,7.478797100548828e-51
+C4H73BC = Exercise/Activity B – Coded,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",0.13448153318616157,1.552660663427121e-50
+C4H73DM = What is the average number of minutes/session that you do exercise/activity D?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.13440449124087056,1.7677798017536862e-50
+C4H73DFW = How many days per week do you do exercise/activity D?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.13258157816844746,3.724785056483227e-49
+C4H73BC = Exercise/Activity B – Coded,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,0.13014839387521823,2.037061250788396e-47
+C4H73CM = What is the average number of minutes/session that you do exercise/activity C?,C4Q4G = PSS Able to control irritations in your life,-0.12945951152745272,6.23797553588825e-47
+C4H73CM = What is the average number of minutes/session that you do exercise/activity C?,C4Q4G = PSS Able to control irritations in your life,-0.12945951152745272,6.23797553588825e-47
+C4H73CS = Seasonal exercise/activity C?,C4Q4G = PSS Able to control irritations in your life,-0.1287667730897234,1.9104646306578556e-46
+C4H73CS = Seasonal exercise/activity C?,C4Q4G = PSS Able to control irritations in your life,-0.1287667730897234,1.9104646306578556e-46
+C4H73AFD = How many times per day do you do exercise/activity A?,C4Q4G = PSS Able to control irritations in your life,-0.1282113433216461,4.66611511001443e-46
+C4H73AFD = How many times per day do you do exercise/activity A?,C4Q4G = PSS Able to control irritations in your life,-0.1282113433216461,4.66611511001443e-46
+C4H73BC = Exercise/Activity B – Coded,C4Q1FF = MASQ Was unable to relax,0.1274495020708593,1.577985462657057e-45
+C4H73BC = Exercise/Activity B – Coded,C4Q3R = CESD I felt sad,0.12740927637175106,1.6824905132122818e-45
+C4H73AI = What is the intensity of exercise/activity A?,C4Q1FF = MASQ Was unable to relax,0.12600650815852868,1.5542214712966306e-44
+C4H73BFD = How many times per day do you do exercise/activity B?,C4Q4G = PSS Able to control irritations in your life,-0.12513279800010096,6.128958151009438e-44
+C4H73BFD = How many times per day do you do exercise/activity B?,C4Q4G = PSS Able to control irritations in your life,-0.12513279800010096,6.128958151009438e-44
+C4H73AS = Seasonal exercise/activity A?,C4Q4G = PSS Able to control irritations in your life,-0.12433055998695317,2.141835441629467e-43
+C4H73AS = Seasonal exercise/activity A?,C4Q4G = PSS Able to control irritations in your life,-0.12433055998695317,2.141835441629467e-43
+C4H73CS = Seasonal exercise/activity C?,C4Q3F = CESD I felt depressed,0.12210380193805921,6.613002552411232e-42
+C4H73AC = Exercise/Activity A – Coded,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.11804265499305042,2.927618544583979e-39
+C4H73BC = Exercise/Activity B – Coded,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.11565786019407273,9.50503562599983e-38
+C4H73BC = Exercise/Activity B – Coded,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.11565786019407273,9.50503562599983e-38
+C1PA24EC = High blood pressure therapy - Exercise,C4Q1FF = MASQ Was unable to relax,-0.11349327616790622,2.1024069143524266e-36
+C4H73EFW = How many days per week do you do exercise/activity E?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.1125193834943764,8.305234983554634e-36
+C4H73AC = Exercise/Activity A – Coded,C4Q1L = MASQ Felt depressed,-0.11244276610601193,9.248448948424782e-36
+C4H73FM = What is the average number of minutes/session that you do exercise/activity F?,C4Q3F = CESD I felt depressed,-0.11243929638270503,9.293595860003337e-36
+C4H73FI = What is the intensity of exercise/activity F?,C4Q3F = CESD I felt depressed,-0.11228252345623062,1.1579015902534107e-35
+C4H73FS = Seasonal exercise/activity F?,C4Q3F = CESD I felt depressed,-0.11223430723973352,1.2388314864565672e-35
+C4H73FFW = How many days per week do you do exercise/activity F?,C4Q3F = CESD I felt depressed,-0.11222209363164919,1.2602086223064484e-35
+C4H73EFD = How many times per day do you do exercise/activity E?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.11219198968313082,1.3144765485846915e-35
+C4H73EC = Exercise/Activity E – Coded,C4Q1AA = MASQ Felt like I had a lot of energy,-0.11211895831176531,1.4559708922303372e-35
+C4H73FFD = How many times per day do you do exercise/activity F?,C4Q3F = CESD I felt depressed,-0.11211002600564686,1.4742839265771867e-35
+C4H73EI = What is the intensity of exercise/activity E?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.11195022542701971,1.8434138894186854e-35
+C4H73FC = Exercise/Activity F – Coded,C4Q3F = CESD I felt depressed,-0.11186524831165566,2.0757240396036045e-35
+C4H73EM = What is the average number of minutes/session that you do exercise/activity E?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.11179828282787882,2.2790962589782733e-35
+C4H73AC = Exercise/Activity A – Coded,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.11116037824536618,5.53621584293077e-35
+C4H73ES = Seasonal exercise/activity E?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.11100459407946657,6.870771823433549e-35
+C4H73AC = Exercise/Activity A – Coded,C4Q3R = CESD I felt sad,-0.11077449341327941,9.447089248028305e-35
+C4H73ES = Seasonal exercise/activity E?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.11061590867228084,1.1760879008635721e-34
+C4H73EFW = How many days per week do you do exercise/activity E?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.11020760003230097,2.064272130312851e-34
+C4H73EFD = How many times per day do you do exercise/activity E?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.11018386190658894,2.1327672022642403e-34
+C4H73BC = Exercise/Activity B – Coded,C4Q1L = MASQ Felt depressed,0.10983807551552731,3.4284535235441296e-34
+C4H73EM = What is the average number of minutes/session that you do exercise/activity E?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.1091799590531862,8.426576894732553e-34
+C4H73EI = What is the intensity of exercise/activity E?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.10891751696563179,1.204295777389386e-33
+C4H73EC = Exercise/Activity E – Coded,C4AD510 = Sun AM How Difficult To Fall Asleep,0.1083470097667161,2.6094888346263505e-33
+C4H73AFW = How many days per week do you do exercise/activity A?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.10729865753541631,1.0690813877885128e-32
+C4H73CC = Exercise/Activity C – Coded,C4Q4I = PSS Angered because of things that were outside of your control,0.10722767360241724,1.1756086195807232e-32
+C4H73BI = What is the intensity of exercise/activity B?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.10609975323896134,5.272922929538754e-32
+C4H73AC = Exercise/Activity A – Coded,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.10578672505529,7.974574826785829e-32
+C4H73AM = What is the average number of minutes/session that you do exercise/activity A?,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.10273478188165332,4.219615035565849e-30
+C4H73AM = What is the average number of minutes/session that you do exercise/activity A?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.10230742210333768,7.287294773970807e-30
+C4H73AM = What is the average number of minutes/session that you do exercise/activity A?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.10230742210333768,7.287294773970807e-30
+C4H73BC = Exercise/Activity B – Coded,C4H1V = Have you ever had depression?,-0.10136282541463157,2.4183972065572437e-29
+C4H73AFW = How many days per week do you do exercise/activity A?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,0.10116053009252847,3.122232093755739e-29
+C4H73CFD = How many times per day do you do exercise/activity C?,C4Q4I = PSS Angered because of things that were outside of your control,0.0995852799778163,2.2423491957546614e-28
+C1PA24EC = High blood pressure therapy - Exercise,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.0995514370057169,2.3385717729446666e-28
+C4H73GM = What is the average number of minutes/session that you do exercise/activity G?,C4Q3F = CESD I felt depressed,-0.0992755195436906,3.2922101643065e-28
+C4H73GC = Exercise/Activity G – Coded,C4Q3F = CESD I felt depressed,-0.09920621323433154,3.5870111525894785e-28
+C4H73GS = Seasonal exercise/activity G?,C4Q3F = CESD I felt depressed,-0.09920621323433154,3.5870111525894785e-28
+C4H73GFW = How many days per week do you do exercise/activity G?,C4Q3F = CESD I felt depressed,-0.09914235505347657,3.881744679805006e-28
+C4H73GFD = How many times per day do you do exercise/activity G?,C4Q3F = CESD I felt depressed,-0.09912665316779352,3.957820309313351e-28
+C4H73GI = What is the intensity of exercise/activity G?,C4Q3F = CESD I felt depressed,-0.0990213455474609,4.507677198109018e-28
+C4H73AFD = How many times per day do you do exercise/activity A?,C4Q4I = PSS Angered because of things that were outside of your control,0.09753623914299313,2.7815314748918108e-27
+C4H73FM = What is the average number of minutes/session that you do exercise/activity F?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.09645880094726597,1.0236924922126962e-26
+C4H73FS = Seasonal exercise/activity F?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.09636363714055769,1.1477521161944032e-26
+C4H73FC = Exercise/Activity F – Coded,C4AD510 = Sun AM How Difficult To Fall Asleep,0.09614587426143006,1.49053623164016e-26
+C4H73FFD = How many times per day do you do exercise/activity F?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.0961359475661285,1.5083774731284948e-26
+C4H73FI = What is the intensity of exercise/activity F?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.0961307396321412,1.517822189720209e-26
+C4H73FFW = How many days per week do you do exercise/activity F?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.09610911445894937,1.557671118220362e-26
+C4H73BM = What is the average number of minutes/session that you do exercise/activity B?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.095144645881417,4.918775832151965e-26
+C4H73FFW = How many days per week do you do exercise/activity F?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.09469146224650897,8.409392161678897e-26
+C4H73FFW = How many days per week do you do exercise/activity F?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.09469146224650897,8.409392161678897e-26
+C4H73FI = What is the intensity of exercise/activity F?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.09461094568374308,9.247590223575445e-26
+C4H73FI = What is the intensity of exercise/activity F?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.09461094568374308,9.247590223575445e-26
+C4H73FFD = How many times per day do you do exercise/activity F?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.09448318799140447,1.0750560286314895e-25
+C4H73FFD = How many times per day do you do exercise/activity F?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.09448318799140447,1.0750560286314895e-25
+C4H73FC = Exercise/Activity F – Coded,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.09444926849955114,1.1188723054398335e-25
+C4H73FC = Exercise/Activity F – Coded,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.09444926849955114,1.1188723054398335e-25
+C4H73FS = Seasonal exercise/activity F?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.09418264251484464,1.5308744685764625e-25
+C4H73FS = Seasonal exercise/activity F?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.09418264251484464,1.5308744685764625e-25
+C4H73FM = What is the average number of minutes/session that you do exercise/activity F?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.09412524665892473,1.63756975148751e-25
+C4H73FM = What is the average number of minutes/session that you do exercise/activity F?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.09412524665892473,1.63756975148751e-25
+C4H73BS = Seasonal exercise/activity B?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.09225489850429172,1.4385944369475703e-24
+C4H73BS = Seasonal exercise/activity B?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.09225489850429172,1.4385944369475703e-24
+C4H73AI = What is the intensity of exercise/activity A?,C4Q4G = PSS Able to control irritations in your life,-0.09197399762513857,1.9862795493466487e-24
+C4H73AI = What is the intensity of exercise/activity A?,C4Q4G = PSS Able to control irritations in your life,-0.09197399762513857,1.9862795493466487e-24
+C4H73DS = Seasonal exercise/activity D?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.09154745414973509,3.2356922932341953e-24
+C4H73DM = What is the average number of minutes/session that you do exercise/activity D?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.09117576196287577,4.941279975766144e-24
+C4H73DFD = How many times per day do you do exercise/activity D?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.08975318649477641,2.4585429666490935e-23
+C4H73GC = Exercise/Activity G – Coded,C4Q4G = PSS Able to control irritations in your life,0.08960044562762084,2.9164005138190417e-23
+C4H73GS = Seasonal exercise/activity G?,C4Q4G = PSS Able to control irritations in your life,0.08960044562762084,2.9164005138190417e-23
+C4H73GC = Exercise/Activity G – Coded,C4Q4G = PSS Able to control irritations in your life,0.08960044562762084,2.9164005138190417e-23
+C4H73GS = Seasonal exercise/activity G?,C4Q4G = PSS Able to control irritations in your life,0.08960044562762084,2.9164005138190417e-23
+C4H73GM = What is the average number of minutes/session that you do exercise/activity G?,C4Q4G = PSS Able to control irritations in your life,0.0895787030890658,2.9880982695846906e-23
+C4H73GM = What is the average number of minutes/session that you do exercise/activity G?,C4Q4G = PSS Able to control irritations in your life,0.0895787030890658,2.9880982695846906e-23
+C4H73GFW = How many days per week do you do exercise/activity G?,C4Q4G = PSS Able to control irritations in your life,0.08953924309211621,3.1227062827526134e-23
+C4H73GFW = How many days per week do you do exercise/activity G?,C4Q4G = PSS Able to control irritations in your life,0.08953924309211621,3.1227062827526134e-23
+C4H73GFD = How many times per day do you do exercise/activity G?,C4Q4G = PSS Able to control irritations in your life,0.08952678624412456,3.166433582715521e-23
+C4H73GFD = How many times per day do you do exercise/activity G?,C4Q4G = PSS Able to control irritations in your life,0.08952678624412456,3.166433582715521e-23
+C4H73GI = What is the intensity of exercise/activity G?,C4Q4G = PSS Able to control irritations in your life,0.08945958583632069,3.4129945164544744e-23
+C4H73GI = What is the intensity of exercise/activity G?,C4Q4G = PSS Able to control irritations in your life,0.08945958583632069,3.4129945164544744e-23
+C4H73DC = Exercise/Activity D – Coded,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.08938640700974493,3.7031406618273306e-23
+C4H73AI = What is the intensity of exercise/activity A?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.08927800083057473,4.1783949036529075e-23
+C4H73CM = What is the average number of minutes/session that you do exercise/activity C?,C4AD510 = Sun AM How Difficult To Fall Asleep,-0.08906113783751567,5.317680081471589e-23
+C4H73CFW = How many days per week do you do exercise/activity C?,C4Q4I = PSS Angered because of things that were outside of your control,0.08888348088188143,6.476123679230559e-23
+C4H73DI = What is the intensity of exercise/activity D?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.08858020661942197,9.05806685577628e-23
+C4H73CS = Seasonal exercise/activity C?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.08846016598399846,1.0341341013270814e-22
+C4H73AI = What is the intensity of exercise/activity A?,C4Q4I = PSS Angered because of things that were outside of your control,0.08805060635688752,1.6229829143477745e-22
+C4H73AM = What is the average number of minutes/session that you do exercise/activity A?,C4Q3F = CESD I felt depressed,0.08756223199496609,2.7703595114147744e-22
+C4H73BM = What is the average number of minutes/session that you do exercise/activity B?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.0872452417348178,3.913606396774795e-22
+C4H73BM = What is the average number of minutes/session that you do exercise/activity B?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.0872452417348178,3.913606396774795e-22
+C4H73DFW = How many days per week do you do exercise/activity D?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.08643966944752152,9.363597691906129e-22
+C4H73CM = What is the average number of minutes/session that you do exercise/activity C?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.08541389359560662,2.8106955238747356e-21
+C1PA24EC = High blood pressure therapy - Exercise,C4H1V = Have you ever had depression?,0.08524645666460046,3.358901301195657e-21
+C4H73DC = Exercise/Activity D – Coded,C4Q1FF = MASQ Was unable to relax,-0.08463155588653196,6.443009167516951e-21
+C4H73DI = What is the intensity of exercise/activity D?,C4Q1FF = MASQ Was unable to relax,-0.08444509638698434,7.842771731363323e-21
+C4H73FM = What is the average number of minutes/session that you do exercise/activity F?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.08357640821683797,1.948869927884783e-20
+C4H73FI = What is the intensity of exercise/activity F?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.08349523231229997,2.1208810509727662e-20
+C4H73FFW = How many days per week do you do exercise/activity F?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.08346677420260223,2.184669278929134e-20
+C4H73FS = Seasonal exercise/activity F?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.08342978035682333,2.27043271577821e-20
+C4H73FFD = How many times per day do you do exercise/activity F?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.08334714483809717,2.47421347485341e-20
+C4H73FC = Exercise/Activity F – Coded,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.08327916402141873,2.655328760224526e-20
+C1PA24EC = High blood pressure therapy - Exercise,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.08258146078119964,5.464762489164772e-20
+C4H73DFD = How many times per day do you do exercise/activity D?,C4Q1FF = MASQ Was unable to relax,-0.08216208331277298,8.408619764800777e-20
+C4H73DS = Seasonal exercise/activity D?,C4Q1FF = MASQ Was unable to relax,-0.08193530795976245,1.0605552504477178e-19
+C4H73BFW = How many days per week do you do exercise/activity B?,C4Q4I = PSS Angered because of things that were outside of your control,0.08163022056522744,1.447833342357823e-19
+C4H73BI = What is the intensity of exercise/activity B?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.08152609502880834,1.6096914644088092e-19
+C4H73BC = Exercise/Activity B – Coded,C4Q3F = CESD I felt depressed,0.0814199167525819,1.793139719446272e-19
+C4H73CI = What is the intensity of exercise/activity C?,C4Q4I = PSS Angered because of things that were outside of your control,0.08115056704984079,2.3563779240427905e-19
+C4H73BM = What is the average number of minutes/session that you do exercise/activity B?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.08038999281043754,5.07139418410701e-19
+C4H73BS = Seasonal exercise/activity B?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,0.08030723609552534,5.510114416543398e-19
+C4H73AC = Exercise/Activity A – Coded,C4H1V = Have you ever had depression?,0.07986525509375701,8.570039787336724e-19
+C4H73AM = What is the average number of minutes/session that you do exercise/activity A?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,0.0797001430990129,1.0101219111435379e-18
+C4H73DM = What is the average number of minutes/session that you do exercise/activity D?,C4Q1FF = MASQ Was unable to relax,-0.07954796867406845,1.1750097504548794e-18
+C4H73FI = What is the intensity of exercise/activity F?,C4Q1A = MASQ Felt sad,-0.07931998901016496,1.4729539639952993e-18
+C4H73FI = What is the intensity of exercise/activity F?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.07920079169687552,1.657273074092917e-18
+C4H73FFW = How many days per week do you do exercise/activity F?,C4Q1A = MASQ Felt sad,-0.07916457044555135,1.7176669556212863e-18
+C4H73FC = Exercise/Activity F – Coded,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.07915383362520198,1.7359830329997966e-18
+C4H73FS = Seasonal exercise/activity F?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.07914570342574605,1.7499806179272788e-18
+C4H73DFW = How many days per week do you do exercise/activity D?,C4Q1FF = MASQ Was unable to relax,-0.07910493729742857,1.821864625451001e-18
+C4H73FM = What is the average number of minutes/session that you do exercise/activity F?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.07910199781703334,1.8271591534883395e-18
+C4H73FS = Seasonal exercise/activity F?,C4Q1A = MASQ Felt sad,-0.07904069735629418,1.941099642724699e-18
+C4H73FFW = How many days per week do you do exercise/activity F?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.07901418884678836,1.9925182673865617e-18
+C4H73AM = What is the average number of minutes/session that you do exercise/activity A?,C4Q1L = MASQ Felt depressed,0.07900520503831253,2.0102474685602204e-18
+C4H73FFD = How many times per day do you do exercise/activity F?,C4Q1A = MASQ Felt sad,-0.07898259940910103,2.055550787371792e-18
+C4H73FM = What is the average number of minutes/session that you do exercise/activity F?,C4Q1A = MASQ Felt sad,-0.07892857606662278,2.1679408624358833e-18
+C4H73FFD = How many times per day do you do exercise/activity F?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.07884044499851835,2.3644463668533015e-18
+C4H73FC = Exercise/Activity F – Coded,C4Q1A = MASQ Felt sad,-0.07878155861748941,2.505441292130621e-18
+C4H73BM = What is the average number of minutes/session that you do exercise/activity B?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,0.07823540707287142,4.278601180576485e-18
+C4H73DFW = How many days per week do you do exercise/activity D?,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.07788260565379729,6.033781320251963e-18
+C4H73BC = Exercise/Activity B – Coded,C4Q4G = PSS Able to control irritations in your life,-0.07732853842326894,1.032045360832179e-17
+C4H73BC = Exercise/Activity B – Coded,C4Q4G = PSS Able to control irritations in your life,-0.07732853842326894,1.032045360832179e-17
+C4H73DI = What is the intensity of exercise/activity D?,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.07727478982244909,1.086987949153269e-17
+C4H73AFW = How many days per week do you do exercise/activity A?,C4H1V = Have you ever had depression?,-0.07575351356267017,4.6492691369572455e-17
+C4H73EFD = How many times per day do you do exercise/activity E?,C4Q3F = CESD I felt depressed,-0.07525927361972258,7.409314450955918e-17
+C4H73EI = What is the intensity of exercise/activity E?,C4Q3F = CESD I felt depressed,-0.07524128043957003,7.53566704270336e-17
+C4H73EC = Exercise/Activity E – Coded,C4Q3F = CESD I felt depressed,-0.0751370748114024,8.310321666848134e-17
+C4H73DC = Exercise/Activity D – Coded,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.07489453395747966,1.0430473278281959e-16
+C4H73ES = Seasonal exercise/activity E?,C4Q3F = CESD I felt depressed,-0.07488044690302427,1.0568812028104538e-16
+C4H73DFD = How many times per day do you do exercise/activity D?,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.07470557568878188,1.244430496666544e-16
+C4H73EM = What is the average number of minutes/session that you do exercise/activity E?,C4Q3F = CESD I felt depressed,-0.07444829223892362,1.5814399328403077e-16
+C4H73DM = What is the average number of minutes/session that you do exercise/activity D?,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.07411756421313542,2.1494501020658695e-16
+C4H73EFW = How many days per week do you do exercise/activity E?,C4Q3F = CESD I felt depressed,-0.07403228638038782,2.325934358924718e-16
+C4H73FFW = How many days per week do you do exercise/activity F?,C4Q1L = MASQ Felt depressed,-0.07382388850611224,2.8195631322043405e-16
+C4H73FI = What is the intensity of exercise/activity F?,C4Q1L = MASQ Felt depressed,-0.07381419164066667,2.8448895446812153e-16
+C4H73FFD = How many times per day do you do exercise/activity F?,C4Q1L = MASQ Felt depressed,-0.07361184408323573,3.4276069608031774e-16
+C4H73BI = What is the intensity of exercise/activity B?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,0.07355140873563865,3.623421057870448e-16
+C4H73FS = Seasonal exercise/activity F?,C4Q1L = MASQ Felt depressed,-0.07337770429869962,4.2497064005574946e-16
+C4H73FC = Exercise/Activity F – Coded,C4Q1L = MASQ Felt depressed,-0.07328276005566672,4.635926553384244e-16
+C4H73FM = What is the average number of minutes/session that you do exercise/activity F?,C4Q1L = MASQ Felt depressed,-0.07324088055380297,4.817090666339414e-16
+C4H73CS = Seasonal exercise/activity C?,C4AD510 = Sun AM How Difficult To Fall Asleep,-0.07259212147078341,8.699427013848486e-16
+C4H73DS = Seasonal exercise/activity D?,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.07256234684277149,8.937545491188045e-16
+C4H73BI = What is the intensity of exercise/activity B?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.07143122450288764,2.473131211583772e-15
+C4H73BI = What is the intensity of exercise/activity B?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.07143122450288764,2.473131211583772e-15
+C4H73BFD = How many times per day do you do exercise/activity B?,C4AD510 = Sun AM How Difficult To Fall Asleep,-0.07131505546211177,2.743208766168523e-15
+C4H73AS = Seasonal exercise/activity A?,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.0711546787706455,3.1643284037035724e-15
+C4H73EI = What is the intensity of exercise/activity E?,C4Q1FF = MASQ Was unable to relax,-0.06990556383643796,9.520723272926138e-15
+C4H73EM = What is the average number of minutes/session that you do exercise/activity E?,C4Q1FF = MASQ Was unable to relax,-0.06916603016588597,1.8112902807521084e-14
+C4H73ES = Seasonal exercise/activity E?,C4Q1FF = MASQ Was unable to relax,-0.0688156932620663,2.4507221816565132e-14
+C4H73EFD = How many times per day do you do exercise/activity E?,C4Q1FF = MASQ Was unable to relax,-0.06877633286305668,2.5351612712288828e-14
+C4H73EC = Exercise/Activity E – Coded,C4Q1FF = MASQ Was unable to relax,-0.06864231302362069,2.8446949980448563e-14
+C4H73EFW = How many days per week do you do exercise/activity E?,C4Q1FF = MASQ Was unable to relax,-0.06844519776818764,3.368575347303849e-14
+C4H73FM = What is the average number of minutes/session that you do exercise/activity F?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.0671892575549277,9.780148898447057e-14
+C4H73FS = Seasonal exercise/activity F?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.06717043370409399,9.936185026498105e-14
+C1PA24EC = High blood pressure therapy - Exercise,C4Q3F = CESD I felt depressed,-0.06715111631113377,1.0098855404056892e-13
+C4H73BS = Seasonal exercise/activity B?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.06713387942105146,1.024621364513544e-13
+C4H73FI = What is the intensity of exercise/activity F?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.06712954507286095,1.0283599229604319e-13
+C4H73FFW = How many days per week do you do exercise/activity F?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.06695637770119711,1.189207632967383e-13
+C4H73FC = Exercise/Activity F – Coded,C4Q1AA = MASQ Felt like I had a lot of energy,-0.06686948122035334,1.2789926165911504e-13
+C4H73FFD = How many times per day do you do exercise/activity F?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.0668387000240659,1.31236824909675e-13
+C1PA24EC = High blood pressure therapy - Exercise,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.06630156156426646,2.0534039651930334e-13
+C4H73BI = What is the intensity of exercise/activity B?,C4Q1L = MASQ Felt depressed,0.06587969462743229,2.911374298090858e-13
+C4H73BS = Seasonal exercise/activity B?,C4Q1FF = MASQ Was unable to relax,0.0653984718425197,4.3241780892891507e-13
+C4H73EI = What is the intensity of exercise/activity E?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.06432029163045916,1.0384429602748812e-12
+C4H73EC = Exercise/Activity E – Coded,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.06402414364525502,1.317690272989073e-12
+C4H73EI = What is the intensity of exercise/activity E?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.06387895230726155,1.480309158909484e-12
+C4H73EFD = How many times per day do you do exercise/activity E?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.06380427493970728,1.5714593763547822e-12
+C4H73AM = What is the average number of minutes/session that you do exercise/activity A?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.06378864962205541,1.59121658945303e-12
+C4H73DC = Exercise/Activity D – Coded,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.06373650974067838,1.6589234866781368e-12
+C4H73ES = Seasonal exercise/activity E?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.06371787618376927,1.6837993133613656e-12
+C4H73CM = What is the average number of minutes/session that you do exercise/activity C?,C4Q4I = PSS Angered because of things that were outside of your control,0.0636444433521239,1.7854441420048602e-12
+C4H73EM = What is the average number of minutes/session that you do exercise/activity E?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.06363522208249105,1.798625979189783e-12
+C4H73EM = What is the average number of minutes/session that you do exercise/activity E?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.06360741959874788,1.8389501880477758e-12
+C4H73DM = What is the average number of minutes/session that you do exercise/activity D?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.06344383551547132,2.0948014083802233e-12
+C4H73EC = Exercise/Activity E – Coded,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.06335121932700448,2.254809897837826e-12
+C4H73DS = Seasonal exercise/activity D?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.06324878708969776,2.4457511780595925e-12
+C4H73EFW = How many days per week do you do exercise/activity E?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.06310616121907035,2.73825951632826e-12
+C4H73EFD = How many times per day do you do exercise/activity E?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.06297642691864934,3.033953715889397e-12
+C4H73EFW = How many days per week do you do exercise/activity E?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.06287942724647766,3.2752786452850295e-12
+C4H73BS = Seasonal exercise/activity B?,C4Q1A = MASQ Felt sad,0.06244336893403966,4.613815187471711e-12
+C4H73ES = Seasonal exercise/activity E?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.06227080525041064,5.280474386155379e-12
+C4H73AS = Seasonal exercise/activity A?,C4Q4I = PSS Angered because of things that were outside of your control,0.062171266790093854,5.707034754724429e-12
+C1PA24EC = High blood pressure therapy - Exercise,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.061584403756044175,9.00033151222062e-12
+C4H73FI = What is the intensity of exercise/activity F?,C4Q3R = CESD I felt sad,-0.06136133310382078,1.0690180753978319e-11
+C4H73FM = What is the average number of minutes/session that you do exercise/activity F?,C4Q3R = CESD I felt sad,-0.061253298336198164,1.1616660209815956e-11
+C4H73FFW = How many days per week do you do exercise/activity F?,C4Q3R = CESD I felt sad,-0.06116244745282733,1.2456281979278123e-11
+C4H73FS = Seasonal exercise/activity F?,C4Q3R = CESD I felt sad,-0.06115232569232729,1.2553426241894835e-11
+C4H73AM = What is the average number of minutes/session that you do exercise/activity A?,C4H1V = Have you ever had depression?,-0.06111351907003176,1.2932798651071552e-11
+C4H73FC = Exercise/Activity F – Coded,C4Q3R = CESD I felt sad,-0.061050443332855725,1.3573510926847721e-11
+C4H73FFD = How many times per day do you do exercise/activity F?,C4Q3R = CESD I felt sad,-0.060949976438266745,1.4658755643836766e-11
+C4H73DFD = How many times per day do you do exercise/activity D?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.060876264675451305,1.550858449486207e-11
+C4H73DS = Seasonal exercise/activity D?,C4Q1A = MASQ Felt sad,-0.06080172867568448,1.6416922699424357e-11
+C4H73CI = What is the intensity of exercise/activity C?,C4Q4D = PSS Confident about your ability to handle your personal problems,0.06071831499819228,1.749527822077919e-11
+C4H73DC = Exercise/Activity D – Coded,C4Q1A = MASQ Felt sad,-0.060658616796809145,1.830931735826698e-11
+C4H73CFD = How many times per day do you do exercise/activity C?,C4Q4D = PSS Confident about your ability to handle your personal problems,0.06027999535012047,2.4406330458610972e-11
+C4H73DS = Seasonal exercise/activity D?,C4H1V = Have you ever had depression?,0.059916557386784475,3.21082073717535e-11
+C4H73BS = Seasonal exercise/activity B?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.05977112072580705,3.581678747771182e-11
+C4H73GM = What is the average number of minutes/session that you do exercise/activity G?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.05929450151075198,5.115337978306093e-11
+C4H73GC = Exercise/Activity G – Coded,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.05922521611495728,5.3861193894536384e-11
+C4H73GS = Seasonal exercise/activity G?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.05922521611495728,5.3861193894536384e-11
+C4H73GFW = How many days per week do you do exercise/activity G?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.0591710335186018,5.607598414518123e-11
+C4H73GFD = How many times per day do you do exercise/activity G?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.0591681566273178,5.619603901060093e-11
+C4H73GI = What is the intensity of exercise/activity G?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",-0.059088125354251,5.963843532160775e-11
+C4H73DFD = How many times per day do you do exercise/activity D?,C4Q1A = MASQ Felt sad,-0.05905285549140429,6.122018968021248e-11
+C4H73DI = What is the intensity of exercise/activity D?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.05901426098071944,6.299806645600524e-11
+C4H73AM = What is the average number of minutes/session that you do exercise/activity A?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",0.05845386003836815,9.527240823255263e-11
+C4H73DC = Exercise/Activity D – Coded,C4H1V = Have you ever had depression?,0.05841301205088638,9.817402288466564e-11
+C4H73DFD = How many times per day do you do exercise/activity D?,C4H1V = Have you ever had depression?,0.05838713268080449,1.0005686458479013e-10
+C4H73AC = Exercise/Activity A – Coded,C4Q3F = CESD I felt depressed,-0.05836971894320505,1.0134361180825212e-10
+C4H73BI = What is the intensity of exercise/activity B?,C4Q1A = MASQ Felt sad,0.05819523673601646,1.1516302897298646e-10
+C1PA24EC = High blood pressure therapy - Exercise,C4Q4G = PSS Able to control irritations in your life,0.05792316215791261,1.4046306458502164e-10
+C1PA24EC = High blood pressure therapy - Exercise,C4Q4G = PSS Able to control irritations in your life,0.05792316215791261,1.4046306458502164e-10
+C4H73DI = What is the intensity of exercise/activity D?,C4Q1A = MASQ Felt sad,-0.05789380177643395,1.434981360444483e-10
+C4H73DFW = How many days per week do you do exercise/activity D?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.057341602491886016,2.1409884920011227e-10
+C4H73AFW = How many days per week do you do exercise/activity A?,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.057154835282318524,2.4491995719070516e-10
+C4H73DFW = How many days per week do you do exercise/activity D?,C4H1V = Have you ever had depression?,0.05687594123777762,2.9916079472665967e-10
+C4H73BS = Seasonal exercise/activity B?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",0.0567681800321585,3.2312069779230363e-10
+C4H73DFW = How many days per week do you do exercise/activity D?,C4Q1A = MASQ Felt sad,-0.05650285421554187,3.903813642445373e-10
+C4H73DM = What is the average number of minutes/session that you do exercise/activity D?,C4Q1A = MASQ Felt sad,-0.05648350951260404,3.957876486749776e-10
+C4H73CS = Seasonal exercise/activity C?,C4Q4I = PSS Angered because of things that were outside of your control,0.05644393251019422,4.070769399371872e-10
+C4H73DM = What is the average number of minutes/session that you do exercise/activity D?,C4H1V = Have you ever had depression?,0.056084394850079614,5.25122217569365e-10
+C4H73BS = Seasonal exercise/activity B?,C4Q1L = MASQ Felt depressed,0.055774611688391394,6.53126019904955e-10
+C4H73CFW = How many days per week do you do exercise/activity C?,C4Q4D = PSS Confident about your ability to handle your personal problems,0.055674777063960866,7.005202512636581e-10
+C4H73ES = Seasonal exercise/activity E?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.055584788079475644,7.461037459947288e-10
+C4H73ES = Seasonal exercise/activity E?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.055584788079475644,7.461037459947288e-10
+C4H73AFW = How many days per week do you do exercise/activity A?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.05555479678098815,7.619288643709171e-10
+C4H73EC = Exercise/Activity E – Coded,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.0554091913137949,8.435308955730664e-10
+C4H73EC = Exercise/Activity E – Coded,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.0554091913137949,8.435308955730664e-10
+C4H73EFD = How many times per day do you do exercise/activity E?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.0551752169667723,9.928228356802082e-10
+C4H73EFD = How many times per day do you do exercise/activity E?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.0551752169667723,9.928228356802082e-10
+C4H73BS = Seasonal exercise/activity B?,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.055101314480631304,1.0451185450015764e-09
+C4H73EI = What is the intensity of exercise/activity E?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.055073327573734246,1.0656160407047265e-09
+C4H73EI = What is the intensity of exercise/activity E?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.055073327573734246,1.0656160407047265e-09
+C4H73DI = What is the intensity of exercise/activity D?,C4H1V = Have you ever had depression?,0.055057188565930136,1.0776138028074203e-09
+C4H73EM = What is the average number of minutes/session that you do exercise/activity E?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.05489366105527446,1.2068521211116682e-09
+C4H73EM = What is the average number of minutes/session that you do exercise/activity E?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.05489366105527446,1.2068521211116682e-09
+C4H73AC = Exercise/Activity A – Coded,C4Q4G = PSS Able to control irritations in your life,0.05485928201416073,1.2358843286146312e-09
+C4H73AC = Exercise/Activity A – Coded,C4Q4G = PSS Able to control irritations in your life,0.05485928201416073,1.2358843286146312e-09
+C1PA24EC = High blood pressure therapy - Exercise,C4Q3R = CESD I felt sad,-0.054761863162883846,1.3218991416879514e-09
+C4H73EFW = How many days per week do you do exercise/activity E?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.054395561573991724,1.7006865341691403e-09
+C4H73EFW = How many days per week do you do exercise/activity E?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.054395561573991724,1.7006865341691403e-09
+C4H73AFW = How many days per week do you do exercise/activity A?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",0.05409603031446123,2.087282931557808e-09
+C4H73BI = What is the intensity of exercise/activity B?,C4H1V = Have you ever had depression?,-0.05191973954900285,8.949773734062283e-09
+C4H73GFW = How many days per week do you do exercise/activity G?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.051609426528966384,1.09633540845345e-08
+C4H73GS = Seasonal exercise/activity G?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.05158859513091646,1.1113266002852642e-08
+C4H73GC = Exercise/Activity G – Coded,C4AD510 = Sun AM How Difficult To Fall Asleep,0.05158859513091646,1.1113266002852642e-08
+C4H73GFD = How many times per day do you do exercise/activity G?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.05153101496554351,1.1538074870296569e-08
+C4H73GI = What is the intensity of exercise/activity G?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.051491485949481525,1.183879795279154e-08
+C4H73GM = What is the average number of minutes/session that you do exercise/activity G?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.05148233757933184,1.190947321832178e-08
+C4H73AFW = How many days per week do you do exercise/activity A?,C4Q3F = CESD I felt depressed,0.05006781224984909,2.953404173300903e-08
+C4H73AM = What is the average number of minutes/session that you do exercise/activity A?,C4Q4B = PSS Unable to control the important things in your life,0.04962303590116409,3.9101136448490404e-08
+C4H73AM = What is the average number of minutes/session that you do exercise/activity A?,C4Q4B = PSS Unable to control the important things in your life,0.04962303590116409,3.9101136448490404e-08
+C4H73BM = What is the average number of minutes/session that you do exercise/activity B?,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.04942351124939385,4.431219255861337e-08
+C4H73ES = Seasonal exercise/activity E?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.04916417376097724,5.209970129969522e-08
+C4H73EC = Exercise/Activity E – Coded,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.048825811052464425,6.427560901246381e-08
+C4H73EFD = How many times per day do you do exercise/activity E?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.04871022214537796,6.903485993227812e-08
+C4H73EI = What is the intensity of exercise/activity E?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.048602385132918376,7.378150732487844e-08
+C4H73EM = What is the average number of minutes/session that you do exercise/activity E?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.04860082849166372,7.385228783019637e-08
+C4H73AFW = How many days per week do you do exercise/activity A?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.04839960861326036,8.357720490842517e-08
+C4H73AFW = How many days per week do you do exercise/activity A?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.04839960861326036,8.357720490842517e-08
+C4H73EFW = How many days per week do you do exercise/activity E?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.04769018436695985,1.2877097159023695e-07
+C4H73AFW = How many days per week do you do exercise/activity A?,C4Q3R = CESD I felt sad,0.047120126662435736,1.8145682777639889e-07
+C4H73BC = Exercise/Activity B – Coded,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.046998183058032564,1.951721749064325e-07
+C4H73BM = What is the average number of minutes/session that you do exercise/activity B?,C4Q1L = MASQ Felt depressed,0.04613246130607906,3.2572841597838644e-07
+C4H73BS = Seasonal exercise/activity B?,C4Q3R = CESD I felt sad,0.046029546418122895,3.4597122121830993e-07
+C1PA24EC = High blood pressure therapy - Exercise,C4Q1AA = MASQ Felt like I had a lot of energy,0.045179065616743445,5.666622412614019e-07
+C4H73AM = What is the average number of minutes/session that you do exercise/activity A?,C4Q1A = MASQ Felt sad,0.04514580533486409,5.776014834531862e-07
+C4H73BS = Seasonal exercise/activity B?,C4Q3F = CESD I felt depressed,0.045143418397271755,5.783943226601602e-07
+C4H73FI = What is the intensity of exercise/activity F?,C4Q4B = PSS Unable to control the important things in your life,-0.04494410109175347,6.484323918296834e-07
+C4H73FI = What is the intensity of exercise/activity F?,C4Q4B = PSS Unable to control the important things in your life,-0.04494410109175347,6.484323918296834e-07
+C4H73FC = Exercise/Activity F – Coded,C4Q4B = PSS Unable to control the important things in your life,-0.04487257136519592,6.755061284048557e-07
+C4H73FC = Exercise/Activity F – Coded,C4Q4B = PSS Unable to control the important things in your life,-0.04487257136519592,6.755061284048557e-07
+C4H73FFW = How many days per week do you do exercise/activity F?,C4Q4B = PSS Unable to control the important things in your life,-0.044795374320595174,7.05946305611365e-07
+C4H73FFW = How many days per week do you do exercise/activity F?,C4Q4B = PSS Unable to control the important things in your life,-0.044795374320595174,7.05946305611365e-07
+C4H73FM = What is the average number of minutes/session that you do exercise/activity F?,C4Q4B = PSS Unable to control the important things in your life,-0.044760960664959465,7.199381841205546e-07
+C4H73FM = What is the average number of minutes/session that you do exercise/activity F?,C4Q4B = PSS Unable to control the important things in your life,-0.044760960664959465,7.199381841205546e-07
+C4H73FS = Seasonal exercise/activity F?,C4Q4B = PSS Unable to control the important things in your life,-0.04474761860348108,7.254343363465442e-07
+C4H73FS = Seasonal exercise/activity F?,C4Q4B = PSS Unable to control the important things in your life,-0.04474761860348108,7.254343363465442e-07
+C4H73FFD = How many times per day do you do exercise/activity F?,C4Q4B = PSS Unable to control the important things in your life,-0.04446800862678573,8.50364624689895e-07
+C4H73FFD = How many times per day do you do exercise/activity F?,C4Q4B = PSS Unable to control the important things in your life,-0.04446800862678573,8.50364624689895e-07
+C4H73FFW = How many days per week do you do exercise/activity F?,C4Q4I = PSS Angered because of things that were outside of your control,-0.044430395814392454,8.686745123753724e-07
+C4H73FI = What is the intensity of exercise/activity F?,C4Q4I = PSS Angered because of things that were outside of your control,-0.04438279073738964,8.923934052713665e-07
+C4H73FC = Exercise/Activity F – Coded,C4Q4I = PSS Angered because of things that were outside of your control,-0.04429705792510041,9.366907253133352e-07
+C4H73FFD = How many times per day do you do exercise/activity F?,C4Q4I = PSS Angered because of things that were outside of your control,-0.04426731829097137,9.525456699774151e-07
+C4H73FS = Seasonal exercise/activity F?,C4Q4I = PSS Angered because of things that were outside of your control,-0.04422439519930228,9.75885298440422e-07
+C4H73FM = What is the average number of minutes/session that you do exercise/activity F?,C4Q4I = PSS Angered because of things that were outside of your control,-0.044192728801053724,9.934558798863836e-07
+C4H73CC = Exercise/Activity C – Coded,C4Q4D = PSS Confident about your ability to handle your personal problems,0.04363846465645869,1.3550521892200848e-06
+C4H73AM = What is the average number of minutes/session that you do exercise/activity A?,C4Q4I = PSS Angered because of things that were outside of your control,0.043479095002778204,1.480552900493683e-06
+C4H73BFW = How many days per week do you do exercise/activity B?,C4Q4D = PSS Confident about your ability to handle your personal problems,0.04332289887543122,1.6143532139169157e-06
+C4H73AFW = How many days per week do you do exercise/activity A?,C4Q1FF = MASQ Was unable to relax,0.043054384139529,1.8719673763496673e-06
+C4H73AM = What is the average number of minutes/session that you do exercise/activity A?,C4Q3R = CESD I felt sad,0.04190787646851479,3.488688941288597e-06
+C4H73GM = What is the average number of minutes/session that you do exercise/activity G?,C4Q3R = CESD I felt sad,-0.04163866426248679,4.0286973449014774e-06
+C4H73GS = Seasonal exercise/activity G?,C4Q3R = CESD I felt sad,-0.041545493670855686,4.233591362666054e-06
+C4H73GC = Exercise/Activity G – Coded,C4Q3R = CESD I felt sad,-0.041545493670855686,4.233591362666054e-06
+C4H73GFD = How many times per day do you do exercise/activity G?,C4Q3R = CESD I felt sad,-0.04154519016798103,4.2342748395743774e-06
+C4H73GI = What is the intensity of exercise/activity G?,C4Q3R = CESD I felt sad,-0.041522824571401544,4.284933295974061e-06
+C4H73GFW = How many days per week do you do exercise/activity G?,C4Q3R = CESD I felt sad,-0.04150540890614824,4.324781663373562e-06
+C4H73BI = What is the intensity of exercise/activity B?,C4Q1FF = MASQ Was unable to relax,0.04145397906264745,4.444539945271571e-06
+C4H73CFW = How many days per week do you do exercise/activity C?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.041280675323472266,4.871921003715615e-06
+C4H73BI = What is the intensity of exercise/activity B?,C4Q4B = PSS Unable to control the important things in your life,-0.040774227441438056,6.358249033258859e-06
+C4H73BI = What is the intensity of exercise/activity B?,C4Q4B = PSS Unable to control the important things in your life,-0.040774227441438056,6.358249033258859e-06
+C4H73DS = Seasonal exercise/activity D?,C4Q3R = CESD I felt sad,-0.04038941637124739,7.76819321670742e-06
+C4H73CC = Exercise/Activity C – Coded,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.04031973542961796,8.053586262094812e-06
+C4H73BM = What is the average number of minutes/session that you do exercise/activity B?,C4Q4G = PSS Able to control irritations in your life,-0.040214120037723636,8.505340892965295e-06
+C4H73BM = What is the average number of minutes/session that you do exercise/activity B?,C4Q4G = PSS Able to control irritations in your life,-0.040214120037723636,8.505340892965295e-06
+C4H73DM = What is the average number of minutes/session that you do exercise/activity D?,C4Q3R = CESD I felt sad,-0.03980738681330306,1.0481819770520609e-05
+C4H73DFD = How many times per day do you do exercise/activity D?,C4Q3R = CESD I felt sad,-0.039771425714634816,1.067625667255814e-05
+C4H73DC = Exercise/Activity D – Coded,C4Q3R = CESD I felt sad,-0.03955962380358613,1.189318784273113e-05
+C4H73DFD = How many times per day do you do exercise/activity D?,C4Q3F = CESD I felt depressed,-0.039294446865963846,1.36040128103151e-05
+C4H73BM = What is the average number of minutes/session that you do exercise/activity B?,C4Q4B = PSS Unable to control the important things in your life,-0.0392507262150352,1.3907718047752113e-05
+C4H73BM = What is the average number of minutes/session that you do exercise/activity B?,C4Q4B = PSS Unable to control the important things in your life,-0.0392507262150352,1.3907718047752113e-05
+C4H73DI = What is the intensity of exercise/activity D?,C4Q3F = CESD I felt depressed,-0.03922326561921362,1.410176739206901e-05
+C4H73DM = What is the average number of minutes/session that you do exercise/activity D?,C4Q3F = CESD I felt depressed,-0.03906224466531481,1.5292611261625513e-05
+C4H73BFD = How many times per day do you do exercise/activity B?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.03899829640042526,1.5791647034824592e-05
+C4H73BC = Exercise/Activity B – Coded,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.03892520172855092,1.6381067187113306e-05
+C4H73DS = Seasonal exercise/activity D?,C4Q3F = CESD I felt depressed,-0.0389117281040625,1.649197967825331e-05
+C4H73DC = Exercise/Activity D – Coded,C4Q3F = CESD I felt depressed,-0.038813155577505865,1.7325455576927096e-05
+C4H73AM = What is the average number of minutes/session that you do exercise/activity A?,C4Q4G = PSS Able to control irritations in your life,-0.03876284787260258,1.7766148975707674e-05
+C4H73AM = What is the average number of minutes/session that you do exercise/activity A?,C4Q4G = PSS Able to control irritations in your life,-0.03876284787260258,1.7766148975707674e-05
+C4H73DI = What is the intensity of exercise/activity D?,C4Q3R = CESD I felt sad,-0.038692200612698936,1.8403077456685722e-05
+C4H73GM = What is the average number of minutes/session that you do exercise/activity G?,C4Q1L = MASQ Felt depressed,-0.03863079817990345,1.897427034724521e-05
+C4H73AFW = How many days per week do you do exercise/activity A?,C4Q1L = MASQ Felt depressed,0.038562359175878864,1.9630809646636255e-05
+C4H73GI = What is the intensity of exercise/activity G?,C4Q1L = MASQ Felt depressed,-0.03855470161172011,1.9705600299021546e-05
+C4H73GFD = How many times per day do you do exercise/activity G?,C4Q1L = MASQ Felt depressed,-0.03854056228668696,1.984441122489253e-05
+C4H73GC = Exercise/Activity G – Coded,C4Q1L = MASQ Felt depressed,-0.03850020750294377,2.0245727944789825e-05
+C4H73GS = Seasonal exercise/activity G?,C4Q1L = MASQ Felt depressed,-0.03850020750294377,2.0245727944789825e-05
+C4H73GFW = How many days per week do you do exercise/activity G?,C4Q1L = MASQ Felt depressed,-0.03846151229450489,2.0637788743185205e-05
+C4H73AM = What is the average number of minutes/session that you do exercise/activity A?,C4Q1FF = MASQ Was unable to relax,0.03832602599333143,2.206827528903873e-05
+C4H73BS = Seasonal exercise/activity B?,C4H1V = Have you ever had depression?,-0.037294640745847533,3.649678994998642e-05
+C4H73CI = What is the intensity of exercise/activity C?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.03671238562315571,4.8216926593779766e-05
+C4H73DFW = How many days per week do you do exercise/activity D?,C4Q3F = CESD I felt depressed,-0.03667545587215413,4.906956274176656e-05
+C4H73CS = Seasonal exercise/activity C?,C4Q4D = PSS Confident about your ability to handle your personal problems,0.03666951232971038,4.920811564541175e-05
+C4H73AFW = How many days per week do you do exercise/activity A?,C4Q4B = PSS Unable to control the important things in your life,0.03614922768647451,6.28830079067189e-05
+C4H73AFW = How many days per week do you do exercise/activity A?,C4Q4B = PSS Unable to control the important things in your life,0.03614922768647451,6.28830079067189e-05
+C4H73DFW = How many days per week do you do exercise/activity D?,C4Q3R = CESD I felt sad,-0.03561582056803414,8.05907301447923e-05
+C1PA24EC = High blood pressure therapy - Exercise,C4Q4B = PSS Unable to control the important things in your life,0.03532800495063203,9.200780535136675e-05
+C1PA24EC = High blood pressure therapy - Exercise,C4Q4B = PSS Unable to control the important things in your life,0.03532800495063203,9.200780535136675e-05
+C4H73BS = Seasonal exercise/activity B?,C4Q4G = PSS Able to control irritations in your life,-0.03500894228291178,0.0001064434950676303
+C4H73BS = Seasonal exercise/activity B?,C4Q4G = PSS Able to control irritations in your life,-0.03500894228291178,0.0001064434950676303
+C4H73CFD = How many times per day do you do exercise/activity C?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.0349606863206847,0.00010880452316235596
+C4H73GM = What is the average number of minutes/session that you do exercise/activity G?,C4Q1A = MASQ Felt sad,-0.03424068743431834,0.00015045359774167787
+C4H73AFW = How many days per week do you do exercise/activity A?,C4Q4I = PSS Angered because of things that were outside of your control,0.03421235017119962,0.0001523661804575366
+C4H73GC = Exercise/Activity G – Coded,C4Q1A = MASQ Felt sad,-0.03419217073999104,0.0001537420873541503
+C4H73GS = Seasonal exercise/activity G?,C4Q1A = MASQ Felt sad,-0.03419217073999104,0.0001537420873541503
+C4H73GFW = How many days per week do you do exercise/activity G?,C4Q1A = MASQ Felt sad,-0.034147426394799646,0.00015683474209176576
+C4H73GFD = How many times per day do you do exercise/activity G?,C4Q1A = MASQ Felt sad,-0.03413633075857354,0.0001576106625671473
+C4H73GI = What is the intensity of exercise/activity G?,C4Q1A = MASQ Felt sad,-0.03406266058062755,0.00016285477175279265
+C4H73AFD = How many times per day do you do exercise/activity A?,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.033967730643696126,0.00016985446989670777
+C4H73ES = Seasonal exercise/activity E?,C4Q4G = PSS Able to control irritations in your life,0.0333959307653855,0.00021837272167521404
+C4H73ES = Seasonal exercise/activity E?,C4Q4G = PSS Able to control irritations in your life,0.0333959307653855,0.00021837272167521404
+C4H73BI = What is the intensity of exercise/activity B?,C4Q4I = PSS Angered because of things that were outside of your control,-0.03318872038738091,0.00023896473576211447
+C4H73EI = What is the intensity of exercise/activity E?,C4Q4G = PSS Able to control irritations in your life,0.03302105747834164,0.0002569455798505386
+C4H73EI = What is the intensity of exercise/activity E?,C4Q4G = PSS Able to control irritations in your life,0.03302105747834164,0.0002569455798505386
+C4H73BFD = How many times per day do you do exercise/activity B?,C4Q4B = PSS Unable to control the important things in your life,-0.03295579190006536,0.0002642819495808374
+C4H73BFD = How many times per day do you do exercise/activity B?,C4Q4B = PSS Unable to control the important things in your life,-0.03295579190006536,0.0002642819495808374
+C4H73EM = What is the average number of minutes/session that you do exercise/activity E?,C4Q4G = PSS Able to control irritations in your life,0.032915477109993194,0.0002689112765065689
+C4H73EM = What is the average number of minutes/session that you do exercise/activity E?,C4Q4G = PSS Able to control irritations in your life,0.032915477109993194,0.0002689112765065689
+C4H73EFW = How many days per week do you do exercise/activity E?,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.032846579851077216,0.0002769990785835379
+C4H73FM = What is the average number of minutes/session that you do exercise/activity F?,C4Q4G = PSS Able to control irritations in your life,0.032535913266311715,0.0003163807485383814
+C4H73FM = What is the average number of minutes/session that you do exercise/activity F?,C4Q4G = PSS Able to control irritations in your life,0.032535913266311715,0.0003163807485383814
+C4H73EC = Exercise/Activity E – Coded,C4Q4G = PSS Able to control irritations in your life,0.03253335900662188,0.0003167252540000951
+C4H73EC = Exercise/Activity E – Coded,C4Q4G = PSS Able to control irritations in your life,0.03253335900662188,0.0003167252540000951
+C4H73EFD = How many times per day do you do exercise/activity E?,C4Q4G = PSS Able to control irritations in your life,0.03251399973625838,0.00031934777165508634
+C4H73EFD = How many times per day do you do exercise/activity E?,C4Q4G = PSS Able to control irritations in your life,0.03251399973625838,0.00031934777165508634
+C4H73EFW = How many days per week do you do exercise/activity E?,C4Q4G = PSS Able to control irritations in your life,0.03232001381409728,0.00034677216040795457
+C4H73EFW = How many days per week do you do exercise/activity E?,C4Q4G = PSS Able to control irritations in your life,0.03232001381409728,0.00034677216040795457
+C4H73BS = Seasonal exercise/activity B?,C4Q4B = PSS Unable to control the important things in your life,-0.032174610056370456,0.0003687561355094687
+C4H73BS = Seasonal exercise/activity B?,C4Q4B = PSS Unable to control the important things in your life,-0.032174610056370456,0.0003687561355094687
+C4H73FS = Seasonal exercise/activity F?,C4Q4G = PSS Able to control irritations in your life,0.03194802859335321,0.00040562575020622045
+C4H73FS = Seasonal exercise/activity F?,C4Q4G = PSS Able to control irritations in your life,0.03194802859335321,0.00040562575020622045
+C4H73FC = Exercise/Activity F – Coded,C4Q4G = PSS Able to control irritations in your life,0.03194115167126236,0.0004067968471800049
+C4H73FC = Exercise/Activity F – Coded,C4Q4G = PSS Able to control irritations in your life,0.03194115167126236,0.0004067968471800049
+C4H73FFW = How many days per week do you do exercise/activity F?,C4Q4G = PSS Able to control irritations in your life,0.0318956186879309,0.00041463086249801916
+C4H73FFW = How many days per week do you do exercise/activity F?,C4Q4G = PSS Able to control irritations in your life,0.0318956186879309,0.00041463086249801916
+C4H73FFD = How many times per day do you do exercise/activity F?,C4Q4G = PSS Able to control irritations in your life,0.03188023080108196,0.0004173100663854476
+C4H73FFD = How many times per day do you do exercise/activity F?,C4Q4G = PSS Able to control irritations in your life,0.03188023080108196,0.0004173100663854476
+C4H73EI = What is the intensity of exercise/activity E?,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.03186248145832023,0.0004204205008407946
+C4H73FI = What is the intensity of exercise/activity F?,C4Q4G = PSS Able to control irritations in your life,0.03162549234942627,0.00046407954344814103
+C4H73FI = What is the intensity of exercise/activity F?,C4Q4G = PSS Able to control irritations in your life,0.03162549234942627,0.00046407954344814103
+C4H73BI = What is the intensity of exercise/activity B?,C4Q3F = CESD I felt depressed,0.03115138165815963,0.0005643979795605773
+C4H73EFD = How many times per day do you do exercise/activity E?,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.031095730828506724,0.0005774146246735564
+C4H73EC = Exercise/Activity E – Coded,C4Q1L = MASQ Felt depressed,-0.031022203134617246,0.0005950414249304852
+C4H73EC = Exercise/Activity E – Coded,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.030968498623773946,0.0006082310976292055
+C4H73BM = What is the average number of minutes/session that you do exercise/activity B?,C4Q1A = MASQ Felt sad,0.030747927128419967,0.0006653075652842681
+C4H73EFD = How many times per day do you do exercise/activity E?,C4Q1L = MASQ Felt depressed,-0.030631486608915886,0.0006974095018009253
+C4H73EI = What is the intensity of exercise/activity E?,C4Q1L = MASQ Felt depressed,-0.03060097574933873,0.000706056006471443
+C4H73CM = What is the average number of minutes/session that you do exercise/activity C?,C4Q4D = PSS Confident about your ability to handle your personal problems,0.030535759280509778,0.0007248727837010424
+C4H73ES = Seasonal exercise/activity E?,C4Q1L = MASQ Felt depressed,-0.03033841680627941,0.0007846868000345606
+C4H73EM = What is the average number of minutes/session that you do exercise/activity E?,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.030166673718574004,0.0008404370113623259
+C4H73EM = What is the average number of minutes/session that you do exercise/activity E?,C4Q1L = MASQ Felt depressed,-0.030165558368012386,0.0008408107856918741
+C4H73ES = Seasonal exercise/activity E?,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.029861460174412872,0.0009486705281680236
+C4H73BI = What is the intensity of exercise/activity B?,C4Q3R = CESD I felt sad,0.029769922277912298,0.0009835650184101578
+C4H73DI = What is the intensity of exercise/activity D?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.029745913102903008,0.0009929120938169428
+C4H73DI = What is the intensity of exercise/activity D?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.029745913102903008,0.0009929120938169428
+C4H73FI = What is the intensity of exercise/activity F?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.029664848799878827,0.0010250823996561858
+C4H73FFW = How many days per week do you do exercise/activity F?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.02964634735388404,0.0010325586227868376
+C4H73FFD = How many times per day do you do exercise/activity F?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.02947379209704339,0.0011047561816120584
+C4H73CI = What is the intensity of exercise/activity C?,C4Q4B = PSS Unable to control the important things in your life,-0.029468378475699258,0.0011070950054351432
+C4H73CI = What is the intensity of exercise/activity C?,C4Q4B = PSS Unable to control the important things in your life,-0.029468378475699258,0.0011070950054351432
+C1PA24EC = High blood pressure therapy - Exercise,C4Q1L = MASQ Felt depressed,-0.029461358803378787,0.0011101345013602118
+C4H73FC = Exercise/Activity F – Coded,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.029291604091351536,0.0011860286761030902
+C4H73EFW = How many days per week do you do exercise/activity E?,C4Q1L = MASQ Felt depressed,-0.02920846176553077,0.0012249233948874016
+C4H73FS = Seasonal exercise/activity F?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.029155878137747882,0.0012501270247727908
+C4H73FM = What is the average number of minutes/session that you do exercise/activity F?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.02908757924480028,0.001283577955988489
+C4H73AC = Exercise/Activity A – Coded,C4Q4I = PSS Angered because of things that were outside of your control,-0.02854672200997543,0.0015791234975645336
+C4H73BFW = How many days per week do you do exercise/activity B?,C4Q4B = PSS Unable to control the important things in your life,-0.027895541173042722,0.0020175926890540247
+C4H73BFW = How many days per week do you do exercise/activity B?,C4Q4B = PSS Unable to control the important things in your life,-0.027895541173042722,0.0020175926890540247
+C4H73BI = What is the intensity of exercise/activity B?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",0.027727151548172273,0.0021478746613294427
+C4H73AFD = How many times per day do you do exercise/activity A?,C4Q4B = PSS Unable to control the important things in your life,0.02770533172614214,0.0021653096014385502
+C4H73AFD = How many times per day do you do exercise/activity A?,C4Q4B = PSS Unable to control the important things in your life,0.02770533172614214,0.0021653096014385502
+C4H73AFW = How many days per week do you do exercise/activity A?,C4Q4G = PSS Able to control irritations in your life,-0.02715727217627252,0.0026480986640367073
+C4H73AFW = How many days per week do you do exercise/activity A?,C4Q4G = PSS Able to control irritations in your life,-0.02715727217627252,0.0026480986640367073
+C4H73BI = What is the intensity of exercise/activity B?,C4Q4G = PSS Able to control irritations in your life,-0.02669310277351824,0.003131869082101656
+C4H73BI = What is the intensity of exercise/activity B?,C4Q4G = PSS Able to control irritations in your life,-0.02669310277351824,0.003131869082101656
+C4H73DFD = How many times per day do you do exercise/activity D?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.026655518446144992,0.0031743678218953387
+C4H73DFD = How many times per day do you do exercise/activity D?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.026655518446144992,0.0031743678218953387
+C4H73DC = Exercise/Activity D – Coded,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.026562466064800526,0.0032818582679791197
+C4H73DC = Exercise/Activity D – Coded,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.026562466064800526,0.0032818582679791197
+C4H73DM = What is the average number of minutes/session that you do exercise/activity D?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.026365643834245868,0.0035202190470264554
+C4H73DM = What is the average number of minutes/session that you do exercise/activity D?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.026365643834245868,0.0035202190470264554
+C4H73DS = Seasonal exercise/activity D?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.02580589150112917,0.0042866885544935035
+C4H73DS = Seasonal exercise/activity D?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.02580589150112917,0.0042866885544935035
+C4H73BFD = How many times per day do you do exercise/activity B?,C4Q4I = PSS Angered because of things that were outside of your control,0.02575524677981938,0.004363009945760637
+C4H73DC = Exercise/Activity D – Coded,C4Q4B = PSS Unable to control the important things in your life,-0.025398812785864984,0.004935935264303494
+C4H73DC = Exercise/Activity D – Coded,C4Q4B = PSS Unable to control the important things in your life,-0.025398812785864984,0.004935935264303494
+C4H73DM = What is the average number of minutes/session that you do exercise/activity D?,C4Q4B = PSS Unable to control the important things in your life,-0.025288488536338426,0.005126582302764468
+C4H73DM = What is the average number of minutes/session that you do exercise/activity D?,C4Q4B = PSS Unable to control the important things in your life,-0.025288488536338426,0.005126582302764468
+C4H73DFW = How many days per week do you do exercise/activity D?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.02495219616720601,0.005749469461697952
+C4H73DFW = How many days per week do you do exercise/activity D?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.02495219616720601,0.005749469461697952
+C4H73GM = What is the average number of minutes/session that you do exercise/activity G?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.02484641759497204,0.005959051443731779
+C4H73GC = Exercise/Activity G – Coded,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.024771016750969196,0.006112621010806605
+C4H73GS = Seasonal exercise/activity G?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.024771016750969196,0.006112621010806605
+C4H73GFD = How many times per day do you do exercise/activity G?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.024765088425423007,0.00612484510335928
+C4H73GI = What is the intensity of exercise/activity G?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.02474071896358566,0.006175326025344385
+C4H73GFW = How many days per week do you do exercise/activity G?,C4Q4J = PSS Difficulties were piling up so high that you couldnt overcome them,-0.024736146833472746,0.006184838741933813
+C4H73BM = What is the average number of minutes/session that you do exercise/activity B?,C4Q4I = PSS Angered because of things that were outside of your control,-0.024545190974921516,0.006594113512049023
+C4H73DS = Seasonal exercise/activity D?,C4Q4B = PSS Unable to control the important things in your life,-0.024479319898261888,0.006740845261964301
+C4H73DS = Seasonal exercise/activity D?,C4Q4B = PSS Unable to control the important things in your life,-0.024479319898261888,0.006740845261964301
+C4H73GM = What is the average number of minutes/session that you do exercise/activity G?,C4Q1FF = MASQ Was unable to relax,-0.024438740524804256,0.006832692402907841
+C4H73GI = What is the intensity of exercise/activity G?,C4Q1FF = MASQ Was unable to relax,-0.024385217614063984,0.006955554946220449
+C4H73GFD = How many times per day do you do exercise/activity G?,C4Q1FF = MASQ Was unable to relax,-0.0243534815362768,0.007029339100961707
+C4H73AFD = How many times per day do you do exercise/activity A?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",0.02429519937770376,0.007166673647319264
+C4H73GC = Exercise/Activity G – Coded,C4Q1FF = MASQ Was unable to relax,-0.024294523066428774,0.007168281326284402
+C4H73GS = Seasonal exercise/activity G?,C4Q1FF = MASQ Was unable to relax,-0.024294523066428774,0.007168281326284402
+C4H73GFW = How many days per week do you do exercise/activity G?,C4Q1FF = MASQ Was unable to relax,-0.02425796916399846,0.007255657663130638
+C4H73DFD = How many times per day do you do exercise/activity D?,C4Q4B = PSS Unable to control the important things in your life,-0.023886857468213632,0.008198347095000922
+C4H73DFD = How many times per day do you do exercise/activity D?,C4Q4B = PSS Unable to control the important things in your life,-0.023886857468213632,0.008198347095000922
+C4H73GI = What is the intensity of exercise/activity G?,C4Q4I = PSS Angered because of things that were outside of your control,0.023729065131157107,0.008631343059404968
+C4H73GFW = How many days per week do you do exercise/activity G?,C4Q4I = PSS Angered because of things that were outside of your control,0.023721031887486508,0.008653923963362557
+C4H73GFD = How many times per day do you do exercise/activity G?,C4Q4I = PSS Angered because of things that were outside of your control,0.023704223006356568,0.008701343476350615
+C4H73GM = What is the average number of minutes/session that you do exercise/activity G?,C4Q4I = PSS Angered because of things that were outside of your control,0.023675247108455432,0.00878363269157651
+C4H73GC = Exercise/Activity G – Coded,C4Q4I = PSS Angered because of things that were outside of your control,0.023672814393553517,0.00879057294034669
+C4H73GS = Seasonal exercise/activity G?,C4Q4I = PSS Angered because of things that were outside of your control,0.023672814393553517,0.00879057294034669
+C4H73CS = Seasonal exercise/activity C?,C4Q4B = PSS Unable to control the important things in your life,-0.023402559027850517,0.009592762951249549
+C4H73CS = Seasonal exercise/activity C?,C4Q4B = PSS Unable to control the important things in your life,-0.023402559027850517,0.009592762951249549
+C4H73EC = Exercise/Activity E – Coded,C4Q1A = MASQ Felt sad,-0.022939886036962696,0.011118524795850187
+C4H73EI = What is the intensity of exercise/activity E?,C4Q3R = CESD I felt sad,-0.022577029875622937,0.012462137758483002
+C4H73AI = What is the intensity of exercise/activity A?,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.022445826672433278,0.012982251720293157
+C4H73ES = Seasonal exercise/activity E?,C4Q1A = MASQ Felt sad,-0.022371524353711803,0.01328523730834971
+C4H73BM = What is the average number of minutes/session that you do exercise/activity B?,C4Q3F = CESD I felt depressed,0.022170046692057705,0.014138485855345181
+C4H73EFD = How many times per day do you do exercise/activity E?,C4Q3R = CESD I felt sad,-0.022080696246736583,0.014532111008518374
+C4H73EI = What is the intensity of exercise/activity E?,C4Q1A = MASQ Felt sad,-0.022067157594827986,0.014592589625737302
+C4H73EC = Exercise/Activity E – Coded,C4Q3R = CESD I felt sad,-0.021983092237299842,0.014973108534733952
+C4H73EM = What is the average number of minutes/session that you do exercise/activity E?,C4Q1A = MASQ Felt sad,-0.02197132642075132,0.015027057427584553
+C4H73EFD = How many times per day do you do exercise/activity E?,C4Q1A = MASQ Felt sad,-0.02180734255362305,0.015796976526011988
+C4H73ES = Seasonal exercise/activity E?,C4Q3R = CESD I felt sad,-0.02166114364140549,0.016512427615263312
+C4H73EM = What is the average number of minutes/session that you do exercise/activity E?,C4Q3R = CESD I felt sad,-0.021562384478913805,0.01701168416454098
+C4H73EFW = How many days per week do you do exercise/activity E?,C4Q3R = CESD I felt sad,-0.021537066556214606,0.01714178739270666
+C4H73EFW = How many days per week do you do exercise/activity E?,C4Q1A = MASQ Felt sad,-0.02088943622865757,0.02077995111318693
+C4H73GI = What is the intensity of exercise/activity G?,C4H1V = Have you ever had depression?,-0.020670907348478144,0.022151049554063967
+C4H73GFD = How many times per day do you do exercise/activity G?,C4H1V = Have you ever had depression?,-0.020638530157890248,0.02236074168950609
+C4H73GM = What is the average number of minutes/session that you do exercise/activity G?,C4H1V = Have you ever had depression?,-0.020621668612661043,0.022470627946279728
+C4H73GFW = How many days per week do you do exercise/activity G?,C4H1V = Have you ever had depression?,-0.020613246613131353,0.02252568945528213
+C4H73GS = Seasonal exercise/activity G?,C4H1V = Have you ever had depression?,-0.02060603240415723,0.02257294785313524
+C4H73GC = Exercise/Activity G – Coded,C4H1V = Have you ever had depression?,-0.02060603240415723,0.02257294785313524
+C4H73BM = What is the average number of minutes/session that you do exercise/activity B?,C4Q1FF = MASQ Was unable to relax,0.02021008982079869,0.025302298209915423
+C4H73DI = What is the intensity of exercise/activity D?,C4Q4B = PSS Unable to control the important things in your life,-0.01975830730067451,0.028761151747432708
+C4H73DI = What is the intensity of exercise/activity D?,C4Q4B = PSS Unable to control the important things in your life,-0.01975830730067451,0.028761151747432708
+C4H73GI = What is the intensity of exercise/activity G?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.019204829256555814,0.033546796438806654
+C4H73GI = What is the intensity of exercise/activity G?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.019204829256555814,0.033546796438806654
+C4H73GM = What is the average number of minutes/session that you do exercise/activity G?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.01914246755049184,0.03412645753425844
+C4H73GM = What is the average number of minutes/session that you do exercise/activity G?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.01914246755049184,0.03412645753425844
+C4H73GFD = How many times per day do you do exercise/activity G?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.01909113987910624,0.03460995743906349
+C4H73GFD = How many times per day do you do exercise/activity G?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.01909113987910624,0.03460995743906349
+C4H73GC = Exercise/Activity G – Coded,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.01894798600298237,0.03598946989094105
+C4H73GC = Exercise/Activity G – Coded,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.01894798600298237,0.03598946989094105
+C4H73GS = Seasonal exercise/activity G?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.01894798600298237,0.03598946989094105
+C4H73GS = Seasonal exercise/activity G?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.01894798600298237,0.03598946989094105
+C4H73GFW = How many days per week do you do exercise/activity G?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.0189259771569607,0.036205663132499864
+C4H73GFW = How many days per week do you do exercise/activity G?,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.0189259771569607,0.036205663132499864
+C4H73AS = Seasonal exercise/activity A?,C4AD510 = Sun AM How Difficult To Fall Asleep,-0.018369150843984144,0.04205520158667266
+C4H73CFW = How many days per week do you do exercise/activity C?,C4Q4B = PSS Unable to control the important things in your life,-0.018354291567166853,0.04222166324346601
+C4H73CFW = How many days per week do you do exercise/activity C?,C4Q4B = PSS Unable to control the important things in your life,-0.018354291567166853,0.04222166324346601
+C4H73DS = Seasonal exercise/activity D?,C4Q4I = PSS Angered because of things that were outside of your control,-0.018347070845399053,0.04230275469779668
+C4H73AFW = How many days per week do you do exercise/activity A?,C4Q1A = MASQ Felt sad,0.01820272341909958,0.04395167839936569
+C4H73CM = What is the average number of minutes/session that you do exercise/activity C?,C4Q4B = PSS Unable to control the important things in your life,-0.017756827205558077,0.04939169855018588
+C4H73CM = What is the average number of minutes/session that you do exercise/activity C?,C4Q4B = PSS Unable to control the important things in your life,-0.017756827205558077,0.04939169855018588
+C4H73DFW = How many days per week do you do exercise/activity D?,C4Q4B = PSS Unable to control the important things in your life,-0.017580871706369076,0.05168858825332376
+C4H73DFW = How many days per week do you do exercise/activity D?,C4Q4B = PSS Unable to control the important things in your life,-0.017580871706369076,0.05168858825332376
+C4H73DC = Exercise/Activity D – Coded,C4Q4I = PSS Angered because of things that were outside of your control,-0.017204942325173146,0.056896245588524935
+C4H73BM = What is the average number of minutes/session that you do exercise/activity B?,C4Q3R = CESD I felt sad,0.01635234031775934,0.07033691748717906
+C4H73BFW = How many days per week do you do exercise/activity B?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",-0.016197345394756493,0.0730402532180592
+C4H73BM = What is the average number of minutes/session that you do exercise/activity B?,"C4QCESDDA = CESD Depressive Affect Subscale (C,F,I,J,N,Q,R)",0.016015100759033035,0.07632697807658866
+C4H73CFD = How many times per day do you do exercise/activity C?,C4Q4B = PSS Unable to control the important things in your life,-0.015892967562696945,0.0785963741931853
+C4H73CFD = How many times per day do you do exercise/activity C?,C4Q4B = PSS Unable to control the important things in your life,-0.015892967562696945,0.0785963741931853
+C4H73GC = Exercise/Activity G – Coded,C4Q4D = PSS Confident about your ability to handle your personal problems,0.01566283966811811,0.08302151923782902
+C4H73GS = Seasonal exercise/activity G?,C4Q4D = PSS Confident about your ability to handle your personal problems,0.01566283966811811,0.08302151923782902
+C4H73GFD = How many times per day do you do exercise/activity G?,C4Q4D = PSS Confident about your ability to handle your personal problems,0.015627696189979903,0.08371472851081711
+C4H73GI = What is the intensity of exercise/activity G?,C4Q4D = PSS Confident about your ability to handle your personal problems,0.015618879788243386,0.08388936636487841
+C4H73GM = What is the average number of minutes/session that you do exercise/activity G?,C4Q4D = PSS Confident about your ability to handle your personal problems,0.015616211639818068,0.08394227591716075
+C4H73GFW = How many days per week do you do exercise/activity G?,C4Q4D = PSS Confident about your ability to handle your personal problems,0.015593484751805761,0.08439404727548885
+C4H73FC = Exercise/Activity F – Coded,C4Q1FF = MASQ Was unable to relax,-0.01511861778040205,0.09429168740223556
+C4H73FM = What is the average number of minutes/session that you do exercise/activity F?,C4Q1FF = MASQ Was unable to relax,-0.015057079171848167,0.09563981320351063
+C4H73DM = What is the average number of minutes/session that you do exercise/activity D?,C4Q4I = PSS Angered because of things that were outside of your control,-0.0150173024585194,0.09651938124225601
+C4H73FS = Seasonal exercise/activity F?,C4Q1FF = MASQ Was unable to relax,-0.014908820599655684,0.09895111591789914
+C4H73FFW = How many days per week do you do exercise/activity F?,C4Q1FF = MASQ Was unable to relax,-0.014758837454120993,0.10239339965178779
+C4H73FI = What is the intensity of exercise/activity F?,C4Q1FF = MASQ Was unable to relax,-0.014727140185331625,0.10313294286228425
+C4H73FFD = How many times per day do you do exercise/activity F?,C4Q1FF = MASQ Was unable to relax,-0.014685984231082944,0.10409950027467134
+C4H73BC = Exercise/Activity B – Coded,C4Q4B = PSS Unable to control the important things in your life,-0.014677874944018985,0.10429079471295268
+C4H73BC = Exercise/Activity B – Coded,C4Q4B = PSS Unable to control the important things in your life,-0.014677874944018985,0.10429079471295268
+C4H73DFD = How many times per day do you do exercise/activity D?,C4Q4I = PSS Angered because of things that were outside of your control,-0.014495837420815451,0.1086588990618708
+C1PA24EC = High blood pressure therapy - Exercise,C4AD510 = Sun AM How Difficult To Fall Asleep,0.013894267532235433,0.1241297804329599
+C4H73GS = Seasonal exercise/activity G?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.013862634268917387,0.12498858329481108
+C4H73GC = Exercise/Activity G – Coded,C4Q1AA = MASQ Felt like I had a lot of energy,-0.013862634268917387,0.12498858329481108
+C4H73GFW = How many days per week do you do exercise/activity G?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.013861308059577505,0.12502468910226983
+C4H73BM = What is the average number of minutes/session that you do exercise/activity B?,C4H1V = Have you ever had depression?,-0.013800004600855087,0.1267025553890855
+C4H73GM = What is the average number of minutes/session that you do exercise/activity G?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.01373784551350452,0.1284216829848615
+C4H73GFD = How many times per day do you do exercise/activity G?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.013734769801295118,0.1285072160414977
+C4H73GI = What is the intensity of exercise/activity G?,C4Q1AA = MASQ Felt like I had a lot of energy,-0.013621603107621788,0.13168517352776876
+C4H73DM = What is the average number of minutes/session that you do exercise/activity D?,C4Q4G = PSS Able to control irritations in your life,0.013448297445985306,0.13666957646259856
+C4H73DM = What is the average number of minutes/session that you do exercise/activity D?,C4Q4G = PSS Able to control irritations in your life,0.013448297445985306,0.13666957646259856
+C4H73FFW = How many days per week do you do exercise/activity F?,C4Q4D = PSS Confident about your ability to handle your personal problems,0.013293477202260883,0.14124430847202454
+C4H73AM = What is the average number of minutes/session that you do exercise/activity A?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.013217788081633161,0.14352322220710886
+C4H73FFD = How many times per day do you do exercise/activity F?,C4Q4D = PSS Confident about your ability to handle your personal problems,0.01314292758211413,0.14580482090618294
+C4H73EFW = How many days per week do you do exercise/activity E?,C4Q4I = PSS Angered because of things that were outside of your control,0.013126327486841985,0.14631449918265974
+C4H73FI = What is the intensity of exercise/activity F?,C4Q4D = PSS Confident about your ability to handle your personal problems,0.013104179953008133,0.14699662336725597
+C4H73DI = What is the intensity of exercise/activity D?,C4Q4I = PSS Angered because of things that were outside of your control,-0.012951548528745275,0.1517638223828337
+C4H73FM = What is the average number of minutes/session that you do exercise/activity F?,C4Q4D = PSS Confident about your ability to handle your personal problems,0.012783987943902364,0.15713188265988443
+C4H73FS = Seasonal exercise/activity F?,C4Q4D = PSS Confident about your ability to handle your personal problems,0.012708271083582677,0.1596042826201322
+C4H73AI = What is the intensity of exercise/activity A?,C4AD510 = Sun AM How Difficult To Fall Asleep,0.01253331761765817,0.16542945883887952
+C4H73FC = Exercise/Activity F – Coded,C4Q4D = PSS Confident about your ability to handle your personal problems,0.012473807750919452,0.167446908220669
+C4H73EFD = How many times per day do you do exercise/activity E?,C4Q4I = PSS Angered because of things that were outside of your control,0.012188587442053974,0.1773733315044701
+C4H73DFW = How many days per week do you do exercise/activity D?,C4Q4I = PSS Angered because of things that were outside of your control,-0.012072129560606033,0.1815500300585712
+C4H73EI = What is the intensity of exercise/activity E?,C4Q4I = PSS Angered because of things that were outside of your control,0.011901277542640788,0.18780896287354226
+C1PA24EC = High blood pressure therapy - Exercise,C4Q4I = PSS Angered because of things that were outside of your control,-0.011804927339470417,0.19140810886768203
+C4H73DFD = How many times per day do you do exercise/activity D?,C4Q4G = PSS Able to control irritations in your life,0.011730093477805134,0.19423833312392938
+C4H73DFD = How many times per day do you do exercise/activity D?,C4Q4G = PSS Able to control irritations in your life,0.011730093477805134,0.19423833312392938
+C4H73ES = Seasonal exercise/activity E?,C4Q4I = PSS Angered because of things that were outside of your control,0.011703446001784837,0.19525352211747612
+C4H73BC = Exercise/Activity B – Coded,C4Q4I = PSS Angered because of things that were outside of your control,0.011700709022758868,0.19535801271045047
+C4H73AS = Seasonal exercise/activity A?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",-0.011543325894292739,0.20143562970871262
+C4H73EM = What is the average number of minutes/session that you do exercise/activity E?,C4Q4I = PSS Angered because of things that were outside of your control,0.011389879499638364,0.20749285763233627
+C4H73AC = Exercise/Activity A – Coded,C4Q4B = PSS Unable to control the important things in your life,0.01138158642204361,0.20782394633523715
+C4H73AC = Exercise/Activity A – Coded,C4Q4B = PSS Unable to control the important things in your life,0.01138158642204361,0.20782394633523715
+C4H73EC = Exercise/Activity E – Coded,C4Q4I = PSS Angered because of things that were outside of your control,0.011320647481862399,0.2102685982603447
+C4H73BC = Exercise/Activity B – Coded,C4AD510 = Sun AM How Difficult To Fall Asleep,-0.011138434378198952,0.21770231100121887
+C4H73DI = What is the intensity of exercise/activity D?,C4Q4G = PSS Able to control irritations in your life,0.011101625752358459,0.21922664668846298
+C4H73DI = What is the intensity of exercise/activity D?,C4Q4G = PSS Able to control irritations in your life,0.011101625752358459,0.21922664668846298
+C4H73DS = Seasonal exercise/activity D?,C4Q4G = PSS Able to control irritations in your life,0.011086200256576357,0.21986772759369075
+C4H73DS = Seasonal exercise/activity D?,C4Q4G = PSS Able to control irritations in your life,0.011086200256576357,0.21986772759369075
+C4H73AFD = How many times per day do you do exercise/activity A?,C4AD510 = Sun AM How Difficult To Fall Asleep,-0.010223714538129093,0.2578759396316126
+C4H73AI = What is the intensity of exercise/activity A?,C4Q4B = PSS Unable to control the important things in your life,0.009831821905663047,0.27657122222424096
+C4H73AI = What is the intensity of exercise/activity A?,C4Q4B = PSS Unable to control the important things in your life,0.009831821905663047,0.27657122222424096
+C4H73GFD = How many times per day do you do exercise/activity G?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",-0.00980183671834974,0.27803878064947357
+C4H73GM = What is the average number of minutes/session that you do exercise/activity G?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",-0.009801816121086321,0.27803979055518435
+C4H73GFW = How many days per week do you do exercise/activity G?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",-0.009801809981542538,0.2780400915840226
+C4H73GI = What is the intensity of exercise/activity G?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",-0.009801809248193195,0.2780401275409928
+C4H73GC = Exercise/Activity G – Coded,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",-0.009801806925921362,0.27804024140469863
+C4H73GS = Seasonal exercise/activity G?,"C4AD513 = Sun AM If Woke, Difficulty Getting To Sleep",-0.009801806925921362,0.27804024140469863
+C4H73BFD = How many times per day do you do exercise/activity B?,C4Q4D = PSS Confident about your ability to handle your personal problems,0.009595112727688065,0.2883005674201409
+C4H73DC = Exercise/Activity D – Coded,C4Q4G = PSS Able to control irritations in your life,0.009444846057406399,0.2959181304992438
+C4H73DC = Exercise/Activity D – Coded,C4Q4G = PSS Able to control irritations in your life,0.009444846057406399,0.2959181304992438
+C4H73DFW = How many days per week do you do exercise/activity D?,C4Q4G = PSS Able to control irritations in your life,0.009112714042303993,0.313229140111436
+C4H73DFW = How many days per week do you do exercise/activity D?,C4Q4G = PSS Able to control irritations in your life,0.009112714042303993,0.313229140111436
+C4H73CC = Exercise/Activity C – Coded,C4Q4B = PSS Unable to control the important things in your life,-0.008426544487212962,0.3510622364619924
+C4H73CC = Exercise/Activity C – Coded,C4Q4B = PSS Unable to control the important things in your life,-0.008426544487212962,0.3510622364619924
+C1PA24EC = High blood pressure therapy - Exercise,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.008148423361905728,0.36718898299649827
+C1PA24EC = High blood pressure therapy - Exercise,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,0.008148423361905728,0.36718898299649827
+C4H73EFW = How many days per week do you do exercise/activity E?,C4H1V = Have you ever had depression?,-0.007079789338283674,0.4333412098657865
+C4H73GI = What is the intensity of exercise/activity G?,C4Q4B = PSS Unable to control the important things in your life,0.006501937130281366,0.47180989049212374
+C4H73GI = What is the intensity of exercise/activity G?,C4Q4B = PSS Unable to control the important things in your life,0.006501937130281366,0.47180989049212374
+C4H73GFW = How many days per week do you do exercise/activity G?,C4Q4B = PSS Unable to control the important things in your life,0.006481057066651784,0.4732342768078701
+C4H73GFW = How many days per week do you do exercise/activity G?,C4Q4B = PSS Unable to control the important things in your life,0.006481057066651784,0.4732342768078701
+C4H73GFD = How many times per day do you do exercise/activity G?,C4Q4B = PSS Unable to control the important things in your life,0.006467691091377369,0.47414731093551277
+C4H73GFD = How many times per day do you do exercise/activity G?,C4Q4B = PSS Unable to control the important things in your life,0.006467691091377369,0.47414731093551277
+C4H73GM = What is the average number of minutes/session that you do exercise/activity G?,C4Q4B = PSS Unable to control the important things in your life,0.00643222775563516,0.4765745071046841
+C4H73GM = What is the average number of minutes/session that you do exercise/activity G?,C4Q4B = PSS Unable to control the important things in your life,0.00643222775563516,0.4765745071046841
+C4H73GS = Seasonal exercise/activity G?,C4Q4B = PSS Unable to control the important things in your life,0.006426307736920704,0.4769803492379008
+C4H73GC = Exercise/Activity G – Coded,C4Q4B = PSS Unable to control the important things in your life,0.006426307736920704,0.4769803492379008
+C4H73GS = Seasonal exercise/activity G?,C4Q4B = PSS Unable to control the important things in your life,0.006426307736920704,0.4769803492379008
+C4H73GC = Exercise/Activity G – Coded,C4Q4B = PSS Unable to control the important things in your life,0.006426307736920704,0.4769803492379008
+C4H73EI = What is the intensity of exercise/activity E?,C4H1V = Have you ever had depression?,-0.0063271715468454365,0.48380458280368055
+C4H73DS = Seasonal exercise/activity D?,C4Q1L = MASQ Felt depressed,-0.005698030218484432,0.5283208060863287
+C4H73EC = Exercise/Activity E – Coded,C4H1V = Have you ever had depression?,-0.005550412004572215,0.5390600474156985
+C4H73EM = What is the average number of minutes/session that you do exercise/activity E?,C4H1V = Have you ever had depression?,-0.005442317615051507,0.5469927079853172
+C4H73EFD = How many times per day do you do exercise/activity E?,C4H1V = Have you ever had depression?,-0.0053237754046479395,0.555758002873087
+C4H73AS = Seasonal exercise/activity A?,C4Q4B = PSS Unable to control the important things in your life,0.0051558773443882745,0.5682889109530362
+C4H73AS = Seasonal exercise/activity A?,C4Q4B = PSS Unable to control the important things in your life,0.0051558773443882745,0.5682889109530362
+C4H73DFD = How many times per day do you do exercise/activity D?,C4Q1L = MASQ Felt depressed,-0.0048952233848918916,0.5880060465503268
+C4H73ES = Seasonal exercise/activity E?,C4H1V = Have you ever had depression?,-0.004878840344445891,0.5892558318505392
+C4H73FFD = How many times per day do you do exercise/activity F?,C4H1V = Have you ever had depression?,0.004610163026624146,0.6099244119241443
+C4H73FFW = How many days per week do you do exercise/activity F?,C4H1V = Have you ever had depression?,0.004592686655990316,0.6112799072761537
+C4H73FI = What is the intensity of exercise/activity F?,C4H1V = Have you ever had depression?,0.004458144757142161,0.6217595387396239
+C4H73FS = Seasonal exercise/activity F?,C4H1V = Have you ever had depression?,0.004417192153606325,0.6249648040304466
+C4H73FM = What is the average number of minutes/session that you do exercise/activity F?,C4H1V = Have you ever had depression?,0.004311271115581433,0.6332878408159721
+C4H73DI = What is the intensity of exercise/activity D?,C4Q1L = MASQ Felt depressed,-0.004206770490682294,0.6415450049262914
+C4H73FC = Exercise/Activity F – Coded,C4H1V = Have you ever had depression?,0.0040471911363297395,0.6542399387881292
+C4H73DC = Exercise/Activity D – Coded,C4Q1L = MASQ Felt depressed,-0.0036980264803573005,0.682363944165551
+C4H73ES = Seasonal exercise/activity E?,C4Q4B = PSS Unable to control the important things in your life,-0.0036602309626429025,0.6854357523071675
+C4H73ES = Seasonal exercise/activity E?,C4Q4B = PSS Unable to control the important things in your life,-0.0036602309626429025,0.6854357523071675
+C4H73DM = What is the average number of minutes/session that you do exercise/activity D?,C4Q1L = MASQ Felt depressed,-0.003572710973557186,0.6925688041622302
+C4H73DFW = How many days per week do you do exercise/activity D?,C4Q1L = MASQ Felt depressed,-0.0034137346122755934,0.7055952911198267
+C4H73EI = What is the intensity of exercise/activity E?,C4Q4B = PSS Unable to control the important things in your life,-0.003204991461583051,0.7228309964835721
+C4H73EI = What is the intensity of exercise/activity E?,C4Q4B = PSS Unable to control the important things in your life,-0.003204991461583051,0.7228309964835721
+C4H73AC = Exercise/Activity A – Coded,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.0030315746381890563,0.7372580056456617
+C4H73AC = Exercise/Activity A – Coded,C4Q3C = CESD I felt that I could not shake off the blues even with the help of my family and friends,-0.0030315746381890563,0.7372580056456617
+C4H73EFW = How many days per week do you do exercise/activity E?,C4Q4B = PSS Unable to control the important things in your life,-0.0030079767511275043,0.7392284841610627
+C4H73EFW = How many days per week do you do exercise/activity E?,C4Q4B = PSS Unable to control the important things in your life,-0.0030079767511275043,0.7392284841610627
+C4H73EC = Exercise/Activity E – Coded,C4Q4B = PSS Unable to control the important things in your life,-0.0029974511561631258,0.7401079491394973
+C4H73EC = Exercise/Activity E – Coded,C4Q4B = PSS Unable to control the important things in your life,-0.0029974511561631258,0.7401079491394973
+C4H73EFD = How many times per day do you do exercise/activity E?,C4Q4B = PSS Unable to control the important things in your life,-0.0028928930728821505,0.7488625713963639
+C4H73EFD = How many times per day do you do exercise/activity E?,C4Q4B = PSS Unable to control the important things in your life,-0.0028928930728821505,0.7488625713963639
+C4H73EM = What is the average number of minutes/session that you do exercise/activity E?,C4Q4B = PSS Unable to control the important things in your life,-0.002740934198582705,0.7616436793246657
+C4H73EM = What is the average number of minutes/session that you do exercise/activity E?,C4Q4B = PSS Unable to control the important things in your life,-0.002740934198582705,0.7616436793246657
+C4H73BI = What is the intensity of exercise/activity B?,C4Q4D = PSS Confident about your ability to handle your personal problems,-0.0027154029021968858,0.7637975929078777
+C4H73BS = Seasonal exercise/activity B?,C4Q4I = PSS Angered because of things that were outside of your control,-0.0019046129162611002,0.833065114198128
